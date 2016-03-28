@@ -1,0 +1,101 @@
+ಬಾ||ಬಾ||V-IN-SL-IMP  
+ಬನ್ನಿ||ಬನ್ನಿ||V-IN-PL-IMP  
+ತಿನ್ನು||ತಿನ್ನು||V-TR1  
+ನೀನು||ನೀನು||PRO-PER-P2.MFN.SL-ABS-NOM  ಬಾ||ಬಾ||V-IN-SL-IMP  
+ಅವನು||ಅವನು||PRO-PER-P3.M.SL-DIST-NOM  ಬಂದನು||ಬರು||V-IN-ABS-PAST-P3.M.SL 
+ಅವಳು||ಅವಳು||PRO-PER-P3.F.SL-DIST-NOM  ಮನೆಗೆ||ಮನೆ||N-COM-COU-N.SL-DAT ಹೋಗುವಳು||ಹೋಗು||V-IN-ABS-FUT-P3.F.SL 
+ರಾಮನು||ರಾಮ||N-PRP-PER-M.SL-NOM ಹಣ್ಣನ್ನು||ಹಣ್ಣು||N-COM-COU-N.SL-ACC ತಿಂದನು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.M.SL 
+ರಾಮನು||ರಾಮ||N-PRP-PER-M.SL-NOM ಹಣ್ಣನ್ನು||ಹಣ್ಣು||N-COM-COU-N.SL-ACC ತಿಂದುಬಿಟ್ಟನು||ತಿನ್ನು||V-TR1-CJP.PAST-AUX.biDu-ABS-PAST-P3.M.SL 
+ರಾಮನು||ರಾಮ||N-PRP-PER-M.SL-NOM ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ||ತಿನ್ನು||V-TR1-CJP.PAST-AUX.haaku-CJP.PAST-AUX.biDu-ABS-PRES-P3.M.SL 
+ರಾಮನು||ರಾಮ||N-PRP-PER-M.SL-NOM ಹಣ್ಣುಗಳನ್ನೂ||ಹಣ್ಣು||N-COM-COU-N.PL-ACC-CLIT.uu ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ||ತಿನ್ನು||V-TR1-CJP.PAST-AUX.haaku-CJP.PAST-AUX.biDu-ABS-PRES-P3.M.SL 
+ರಾಮನು||ರಾಮ||N-PRP-PER-M.SL-NOM ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನಾ||ತಿನ್ನು||V-TR1-CJP.PAST-AUX.haaku-CJP.PAST-AUX.biDu-ABS-PRES-P3.M.SL-CLIT.INTG 
+ನನಗೆ||ನನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT  ನಿದ್ದೆ||ನಿದ್ದೆ||N-COM-UNC-N.SL-NOM  ಬರುತ್ತಿದೆ||ಬರು||V-IN-PROG.PRES.P3.N.SL 
+ಅವನು||ಅವನು||PRO-PER-P3.M.SL-DIST-NOM  ನನಗೆ||ನನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT  ದುಡ್ಡು||ದುಡ್ಡು||N-COM-UNC-N.SL-NOM  ಕೊಡಬೇಕು||ಕೊಡು||V-BI1-ABS-INF-CMPL 
+ಅವನು||ಅವನು||PRO-PER-P3.M.SL-DIST-NOM  ನನಗೆ||ನನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT  ದುಡ್ಡು||ದುಡ್ಡು||N-COM-UNC-N.SL-NOM  ಕೊಡಲಿಲ್ಲ||ಕೊಡಲಿ||N-COM-COU-N.SL-NOM-+V.illa.NEG.EXST 
+ದೇವರು||ದೇವರು||N-COM-COU-M.SL-NOM  ಒಳ್ಳೆಯದನ್ನು||ಒಳ್ಳೆಯದು||N-COM-UNC-N.SL-ACC ಮಾಡಲಿ||ಮಾಡು||V-TR1-ABS-OPT 
+ಅಕ್ಕ||ಅಕ್ಕ||N-COM-COU-F.SL-NOM  ಎಲ್ಲಿಗೆ||ಎಲ್ಲಿ||N-LOC-PLA-UNC-QW-N.SL-DAT ಹೋಗಿದ್ದಾಳೆ||ಹೋಗು||V-IN-CJP.PAST-PERF.PRES-P3.F.SL 
+ಅಣ್ಣ||ಅಣ್ಣ||N-COM-COU-M.SL-NOM  ಏನನ್ನು||ಏನನ್ನು||ADV-QW  ತರುತ್ತಾನೆ||ತರು||V-TR1-ABS-PRES-P3.M.SL 
+ಅಮ್ಮ||ಅಮ್ಮ||N-COM-UNC-F.SL-NOM  ಯಾರಿಗೆ||ಯಾರು||PRO-INTG-P3.MF.PL-DAT ಮೊದಲು||ಮೊದಲು||N-LOC-PLTM-UNC-ABS-N.SL-NOM  ದೋಸೆ||ದೋಸೆ||N-COM-COU-N.SL-NOM  ಕೊಡುತ್ತಾಳೆ||ಕೊಡು||V-BI1-ABS-PRES-P3.F.SL 
+ಯಾರು||ಯಾರು||PRO-INTG-P3.MF.PL-NOM  ಬಂದರು||ಬರು||V-IN-ABS-PAST-P3.MF.PL 
+ಚಿಕ್ಕಮ್ಮ||ಚಿಕ್ಕಮ್ಮ||N-COM-COU-F.SL-NOM  ಹೇಗೆ||ಹೇಗೆ||ADV-QW  ಅಡುಗೆ||ಅಡುಗೆ||N-COM-COU-N.SL-NOM  ಮಾಡಬಲ್ಲಳು||ಮಾಡು||V-TR1-ABS-INF-CAPB-P3.F.SL 
+ಅಡುಗೆಮನೆಯಲ್ಲಿ||ಅಡುಗೆಮನೆ||N-COM-UNC-N.SL-LOC ಏನೂ||ಏನೂ||PRO-QNTF-P3.N.PL-NOM  ಇಲ್ಲವಂತೆ||ಇಲ್ಲವಂತೆ||V-DEFE-CLIT.aMte  
+ಮಳೆ||ಮಳೆ||N-COM-UNC-N.SL-NOM  ಬರುತ್ತಿದೆ||ಬರು||V-IN-PROG.PRES.P3.N.SL 
+ಓದುವುದು||ಓದು||V-TR1-ABS-FUT-v>n-GRND-n-NOM ನನಗೆ||ನನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT  ಕಷ್ಟ||ಕಷ್ಟ||N-COM-COU-N.SL-NOM||V-DEFE  
+ಕೆಟ್ಟ||ಕೆಟ್ಟ||ADJ-ABS  ಪುಸ್ತಕಗಳನ್ನು||ಪುಸ್ತಕ||N-COM-COU-N.PL-ACC ಓದಬಾರದು||ಓದು||V-TR1-ABS-INF-PROH 
+ಮರದಿಂದ||ಮರ||N-COM-COU-N.SL-ABL ಹಣ್ಣು||ಹಣ್ಣು||N-COM-COU-N.SL-NOM  ಕೆಳಕ್ಕೆ||ಕೆಳಕ್ಕೆ||N-LOC-PLA-UNC-ABS-N.SL-DAT  ಬಿದ್ದಿತು||ಬೀಳು||V-IN-ABS-PAST-P3.N.SL 
+ಯಾರೂ||ಯಾರು||PRO-INTG-P3.MF.PL-NOM-CLIT.uu ಮನೆಯಿಂದ||ಮನೆ||N-COM-COU-N.SL-ABL ಹೊರಗೆ||ಹೊರಗೆ||N-LOC-PLA-UNC-ABS-N.SL-NOM||PP-OTH  ಹೋಗಲೇಬಾರದು||ಹೋಗು||V-IN-ABS-INF-CLIT.ee-PROH 
+ಕೆಲವರು||ಕೆಲವರು||PRO-QNTF-P3.MF.PL-NOM  ಮನೆಯಿಂದ||ಮನೆ||N-COM-COU-N.SL-ABL ಮನೆಗೆ||ಮನೆ||N-COM-COU-N.SL-DAT ಅಲೆಯುತ್ತಾರೆ||ಅಲೆ||V-IN-ABS-PRES-P3.MF.PL 
+ದೇವರಿಗೆ||ದೇವರು||N-COM-COU-M.SL-DAT ನಮಸ್ಕಾರಗಳು||ನಮಸ್ಕಾರ||N-COM-COU-N.PL-NOM 
+ಅವರು||ಅವರು||PRO-PER-P3.MF.PL-DIST-NOM  ಒಳ್ಳೆಯವರು||ಒಳ್ಳೆಯ||TO_BE_COMBINED:ADJ-ABS:adj>n-PRON.avaru-n-NOM  
+ನಿಮಗೆ||ನಿಮಗೆ||PRO-PER-P2.MFN.PL-ABS-DAT  ಏನು||ಏನು||ADV-QW  ಬೇಕು||ಬೇಕು||V-DEFE  
+ನಾಯಿಗಳು||ನಾಯಿ||N-COM-COU-N.PL-NOM ಕಾಲಿನಿಂದ||ಕಾಲು||N-COM-COU-N.SL-ABL ನೆಲವನ್ನು||ನೆಲ||N-COM-UNC-N.SL-ACC ಕೆರೆಯುತ್ತವೆ||ಕೆರೆ||V-TR1-ABS-PRES-P3.N.PL 
+ನಾವು||ನಾವು||PRO-PER-P1.MFN.PL-ABS-NOM  ನಿಮ್ಮೊಡನೆ||ನಿಮ್ಮ||PRO-PER-P2.MFN.PL-ABS-SOC1 ಬರಬಹುದಾ||ಬರು||V-IN-ABS-INF-PERM-CLIT.INTG 
+ನಾವೂ||ನಾವು||PRO-PER-P1.MFN.PL-ABS-NOM-CLIT.uu ನಿಮ್ಮ||ನಿಮ್ಮ||PRO-PER-P2.MFN.PL-ABS-GEN  ಜೊತೆ||ಜೊತೆ||N-COM-UNC-N.SL-NOM||PP-OTH  ಬರುತ್ತೇವೆ||ಬರು||V-IN-ABS-PRES-P1.MFN.PL 
+ಪೂರ್ವದ||ಪೂರ್ವ||N-COM-UNC-N.SL-GEN ಕಡೆ||ಕಡೆ||N-LOC-PLTM-UNC-ABS-N.SL-NOM||PP-OTH||V-TR1  ನೋಡು||ನೋಡು||V-TR1  
+ಸೂರ್ಯ||ಸೂರ್ಯ||N-COM-UNC-M.SL-NOM||N-PRP-PER-M.SL-NOM  ನೆತ್ತಿಯ||ನೆತ್ತಿ||N-COM-UNC-N.SL-GEN ಮೇಲೆ||ಮೇಲೆ||N-LOC-PLA-UNC-ABS-N.SL-NOM  ಬಂದಿದ್ದಾನೆ||ಬರು||V-IN-CJP.PAST-PERF.PRES-P3.M.SL 
+ರಾಮನು||ರಾಮ||N-PRP-PER-M.SL-NOM ಸೀತೆಯ||ಸೀತೆ||N-PRP-PER-F.SL-GEN ಜೊತೆ||ಜೊತೆ||N-COM-UNC-N.SL-NOM||PP-OTH  ಕಾಡಿಗೆ||ಕಾಡಿಗೆ||N-COM-COU-N.SL-DAT||N-COM-UNC-N.SL-NOM  ನಡೆದನು||ನಡೆ||V-IN-ABS-PAST-P3.M.SL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಬಾವಿಯಲ್ಲಿ||ಬಾವಿ||N-COM-COU-N.SL-LOC ಇಣಕಿದರು||ಇಣಕು||V-IN-ABS-PAST-P3.MF.PL 
+ಸಂಜೆ||ಸಂಜೆ||N-LOC-TIM-UNC-ABS-N.SL-NOM  ಹೋಗೋಣ||ಹೋಗು||V-IN-ABS-HORT.P1.PL 
+ನಾನು||ನಾನು||PRO-PER-P1.MFN.SL-ABS-NOM  ನಾಳೆ||ನಾಳೆ||N-LOC-TIM-UNC-ABS-N.SL-NOM  ನಿಮ್ಮ||ನಿಮ್ಮ||PRO-PER-P2.MFN.PL-ABS-GEN  ಮನೆಗೆ||ಮನೆ||N-COM-COU-N.SL-DAT ಬರುವುದಿಲ್ಲ||ಬರು||V-IN-ABS-FUT-v>n-GRND-n-NOM-+V.illa.NEG.EXST 
+ಹೇಳಲಾರೆ||ಹೇಳು||V-TR13-ABS-INF-NCAP-P12.MFN.SL 
+ನನಗೆ||ನನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT  ಜ್ವರ||ಜ್ವರ||N-COM-UNC-N.SL-NOM  ಬಂದಿದೆ||ಬರು||V-IN-CJP.PAST-+V.ide 
+ನೀರು||ನೀರು||N-COM-UNC-N.SL-NOM  ಕುಡಿಯಬೇಕು||ಕುಡಿ||V-TR1-ABS-INF-CMPL 
+ಈಗ||ಈಗ||N-LOC-TIM-UNC-PROX-N.SL-NOM  ಆರು||ಆರು||N-CARD-NHU-N.SL-NOM||PRO-INTG-P3.MF.PL-NOM||V-IN  ಗಂಟೆ||ಗಂಟೆ||N-LOC-TIM-COU-ABS-N.SL-NOM   
+ಬೆಂಗಳೂರಿನಲ್ಲಿ||ಬೆಂಗಳೂರು||N-PRP-LOC-N.SL-LOC ಚಳಿಯಂತೆ||ಚಳಿ||N-COM-UNC-N.SL-NOM-CLIT.aMte 
+ನನಗೆ||ನನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT  ಬೆಲ್ಲ||ಬೆಲ್ಲ||N-COM-UNC-N.SL-NOM  ಬೇಕು||ಬೇಕು||V-DEFE  
+ನನ್ನ||ನನ್ನ||PRO-PER-P1.MFN.SL-ABS-GEN  ಹತ್ತಿರ||ಹತ್ತಿರ||N-LOC-PLA-UNC-ABS-N.SL-NOM||PP-OTH  ದುಡ್ಡು||ದುಡ್ಡು||N-COM-UNC-N.SL-NOM  ಇಲ್ಲ||ಇಲ್ಲ||V-DEFE  
+ನಿಮ್ಮ||ನಿಮ್ಮ||PRO-PER-P2.MFN.PL-ABS-GEN  ಮನೆ||ಮನೆ||N-COM-COU-N.SL-NOM  ಎಲ್ಲಿದೆ||ಎಲ್ಲಿ||N-LOC-PLA-UNC-QW-N.SL-NOM-+V.ide 
+ಅದು||ಅದು||PRO-PER-P3.N.SL-DIST-NOM  ಏಕೆ||ಏಕೆ||ADV-QW  ಹಾಗೆ||ಹಾಗೆ||ADV-MAN  ಇದೆ||ಇದೆ||V-IN-ABS-PRES-P3.N.SL  
+ಇದು||ಇದು||PRO-PER-P3.N.SL-PROX-NOM  ಸುಳ್ಳು||ಸುಳ್ಳು||N-COM-COU-N.SL-NOM||V-DEFE  
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಮೂರು||ಮೂರು||N-CARD-NHU-N.SL-NOM  ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಮೂರು||ಮೂರು||N-CARD-NHU-N.SL-NOM  ದೊಡ್ಡ||ದೊಡ್ಡ||ADJ-ABS  ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಕೊನೆಯ||ಕೊನೆ||N-LOC-PLTM-UNC-ABS-N.SL-GEN ಮರದ||ಮರ||N-COM-COU-N.SL-GEN ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ನಮ್ಮ||ನಮ್ಮ||PRO-PER-P1.MFN.PL-ABS-GEN  ತಾತ||ತಾತ||N-COM-COU-M.SL-NOM  ಬೆಳೆಸಿದ||ಬೆಳೆಸು||V-TR1-ABS-PAST-v>adj-RP ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಮರದ||ಮರ||N-COM-COU-N.SL-GEN ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಆ||ಆ||ADJ-DEM  ಗಿಡದ||ಗಿಡ||N-COM-COU-N.SL-GEN ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಅನೇಕ||ಅನೇಕ||ADJ-QNTF  ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಕೆಲವು||ಕೆಲವು||ADJ-QNTF||PRO-QNTF-P3.N.PL-NOM  ದೊಡ್ಡ||ದೊಡ್ಡ||ADJ-ABS  ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಕೆಂಪು||ಕೆಂಪು||ADJ-ABS  ಬಣ್ಣದ||ಬಣ್ಣ||N-COM-COU-N.SL-GEN ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಚೆನ್ನಾಗಿ||ಚೆನ್ನಾಗಿ||ADV-MAN  ಹಣ್ಣಾದ||ಹಣ್ಣು||N-COM-COU-N.SL-NOM-v-ABS-PAST-v>adj-RP ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ಬೇಗ||ಬೇಗ||ADV-TIM  ಬೇಗ||ಬೇಗ||ADV-TIM  ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ನಿಧಾನವಾಗಿ||ನಿಧಾನವಾಗಿ||ADV-MAN  ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಯಾವ||ಯಾವ||ADJ-QW  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಚಿಕ್ಕ||ಚಿಕ್ಕ||ADJ-ABS  ಚಿಕ್ಕ||ಚಿಕ್ಕ||ADJ-ABS  ಸೀಬೆ||ಸೀಬೆ||N-COM-UNC-N.SL-NOM  ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು||N-COM-COU-N.PL-ACC ಏಕೆ||ಏಕೆ||ADV-QW  ತಿಂದರು||ತಿನ್ನು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಹಣ್ಣು||ಹಣ್ಣು||N-COM-COU-N.SL-NOM  ತಿಂದು||ತಿನ್ನು||V-TR1-CJP.PAST ಮನೆಗೆ||ಮನೆ||N-COM-COU-N.SL-DAT ಹೋದರು||ಹೋಗು||V-IN-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಹಣ್ಣು||ಹಣ್ಣು||N-COM-COU-N.SL-NOM  ತಿನ್ನುತ್ತಾ||ತಿನ್ನು||V-TR1-ABS-PRES-CJP.PRES ಮನೆಗೆ||ಮನೆ||N-COM-COU-N.SL-DAT ಹೋದರು||ಹೋಗು||V-IN-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಹಣ್ಣು||ಹಣ್ಣು||N-COM-COU-N.SL-NOM  ತಿಂದು||ತಿನ್ನು||V-TR1-CJP.PAST ಮನೆಗೆ||ಮನೆ||N-COM-COU-N.SL-DAT ಹೋಗಿ||ಹೋಗು||V-IN-ABS-IMP.PL||V-IN-ABS-CJP.PAST ಮುಖ||ಮುಖ||N-COM-COU-N.SL-NOM  ತೊಳೆದುಕೊಂಡು||ತೊಳೆ||V-TR1-CJP.PAST-REFL.koLLu-CJP.PAST ಆಟಕ್ಕೆ||ಆಟ||N-COM-COU-N.SL-DAT ಓಡಿದರು||ಓಡು||V-IN-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಹಲ್ಲು||ಹಲ್ಲು||N-COM-COU-N.SL-NOM  ಮತ್ತು||ಮತ್ತು||CONJ-COOR||N-COM-UNC-N.SL-NOM  ಹಣ್ಣನ್ನು||ಹಣ್ಣು||N-COM-COU-N.SL-ACC ಸೇವಿಸಿದರು||ಸೇವಿಸು||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗರು||ಹುಡುಗ||N-COM-COU-M.PL-NOM ಹಣ್ಣು||ಹಣ್ಣು||N-COM-COU-N.SL-NOM  ತಿನ್ನದೆ||ತಿನ್ನು||V-TR1-ABS-NEG-CJP ಮನೆಗೆ||ಮನೆ||N-COM-COU-N.SL-DAT ಹೋದರು||ಹೋಗು||V-IN-ABS-PAST-P3.MF.PL 
+ನನಗೆ||ನನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT  ಎರಡು||ಎರಡು||N-CARD-NHU-N.SL-NOM  ಕಣ್ಣುಗಳಿವೆ||ಕಣ್ಣು||N-COM-COU-N.PL-NOM-+V.ive 
+ನನಗೆ||ನನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT  ಹಸಿವು||ಹಸಿವು||N-COM-UNC-N.SL-NOM  ಆಗುತ್ತಿದೆ||ಆಗು||V-IN-PROG.PRES.P3.N.SL 
+ಆ||ಆ||ADJ-DEM  ದಿನ||ದಿನ||N-LOC-TIM-COU-ABS-N.SL-NOM  ರಾಮನು||ರಾಮ||N-PRP-PER-M.SL-NOM ಬೇಗ||ಬೇಗ||ADV-TIM  ಎದ್ದು||ಏಳು||V-IN-CJP.PAST ಶೌಚ||ಶೌಚ||N-COM-UNC-N.SL-NOM  ಸ್ನಾನ||ಸ್ನಾನ||N-COM-UNC-N.SL-NOM  ಇತ್ಯಾದಿಗಳನ್ನು||ಇತ್ಯಾದಿ||N-COM-COU-N.PL-ACC ಮುಗಿಸಿಕೊಂಡು||ಮುಗಿಸು||V-TR1-CJP.PAST-REFL.koLLu-CJP.PAST-  ದೇವರ||ದೇವರು||N-COM-COU-M.SL-GEN ಪೂಜೆ||ಪೂಜೆ||N-COM-COU-N.SL-NOM  ಮಾಡಿ||ಮಾಡು||V-TR1-ABS-IMP.PL||V-TR1-ABS-CJP.PAST ಕೈಯಲ್ಲಿ||ಕೈ||N-COM-COU-N.SL-LOC ಚೀಲ||ಚೀಲ||N-COM-COU-N.SL-NOM  ಹಿಡಿದು||ಹಿಡಿ||V-TR1-CJP.PAST ಸಾಮಾನು||ಸಾಮಾನು||N-COM-COU-N.SL-NOM  ತರಲು||ತರು||V-TR1-ABS-INF ಪೇಟೆಗೆ||ಪೇಟೆ||N-COM-COU-N.SL-DAT ಹೊರಟನು||ಹೊರಡು||V-IN-ABS-PAST-P3.M.SL 
+ದಾರಿಯಲ್ಲಿ||ದಾರಿ||N-COM-COU-N.SL-LOC ಹಳೆಯ||ಹಳೆಯ||ADJ-ABS  ಸ್ನೇಹಿತನನ್ನು||ಸ್ನೇಹಿತ||N-COM-COU-M.SL-ACC ಕಂಡು||ಕಾಣು||V-TR13-CJP.PAST ಅವನನ್ನು||ಅವನು||PRO-PER-P3.M.SL-DIST-ACC ಮನೆಗೆ||ಮನೆ||N-COM-COU-N.SL-DAT ಕರೆತಂದನು||ಕರೆತರು||V-TR1-ABS-PAST-P3.M.SL 
+ಇಬ್ಬರೂ||ಇಬ್ಬರು||PRO-QNTF-P3.MF.PL-NOM-CLIT.uu ಬಿಸಿ||ಬಿಸಿ||ADJ-ABS  ಬಿಸಿ||ಬಿಸಿ||ADJ-ABS  ಕಾಫಿ||ಕಾಫಿ||N-COM-UNC-N.SL-NOM  ಮಾಡಿಕೊಂಡು||ಮಾಡು||V-TR1-CJP.PAST-REFL.koLLu-CJP.PAST ಕುಡಿದರು||ಕುಡಿ||V-TR1-ABS-PAST-P3.MF.PL 
+ಹುಡುಗನು||ಹುಡುಗ||N-COM-COU-M.SL-NOM ತೋಟಕ್ಕೆ||ತೋಟ||N-COM-COU-N.SL-DAT ಹೋಗಿದ್ದಾನೆ||ಹೋಗು||V-IN-CJP.PAST-PERF.PRES-P3.M.SL 
+ಹಾವು||ಹಾವು||N-COM-COU-N.SL-NOM  ಕಚ್ಚಿ||ಕಚ್ಚು||V-TR1-ABS-IMP.PL||V-TR1-ABS-CJP.PAST ಹುಡುಗ||ಹುಡುಗ||N-COM-COU-M.SL-NOM  ಸತ್ತನು||ಸಾಯು||V-IN-ABS-PAST-P3.M.SL 
+ಸೊಳ್ಳೆ||ಸೊಳ್ಳೆ||N-COM-COU-N.SL-NOM  ಕಚ್ಚಿದರೆ||ಕಚ್ಚು||V-TR1-ABS-PAST-COND ಮಲೇರಿಯ||ಮಲೇರಿಯ||N-COM-UNC-N.SL-NOM  ಬರುವುದಂತೆ||ಬರು||V-IN-ABS-FUT-v>n-GRND-n-NOM-CLIT.aMte 
+ಇಲ್ಲಿ||ಇಲ್ಲಿ||N-LOC-PLA-UNC-PROX-N.SL-NOM  ಬಟ್ಟೆ||ಬಟ್ಟೆ||N-COM-COU-N.SL-NOM  ಹೊಲೆದುಕೊಡಲಾಗುತ್ತದೆ||ಹೊಲೆ||V-TR1-CJP.PAST-AUX.koDu-ABS-INF-AUX.aagu-ABS-PRES-P3.N.SL 
+ಇಲ್ಲಿ||ಇಲ್ಲಿ||N-LOC-PLA-UNC-PROX-N.SL-NOM  ಯಾರೂ||ಯಾರು||PRO-INTG-P3.MF.PL-NOM-CLIT.uu ಮೂತ್ರ||ಮೂತ್ರ||N-COM-UNC-N.SL-NOM  ವಿಸರ್ಜನೆ||ವಿಸರ್ಜನೆ||N-COM-UNC-N.SL-NOM  ಮಾಡಬಾರದು||ಮಾಡು||V-TR1-ABS-INF-PROH 
+ಇಲ್ಲಿ||ಇಲ್ಲಿ||N-LOC-PLA-UNC-PROX-N.SL-NOM  ಹೊಲಸು||ಹೊಲಸು||N-COM-UNC-N.SL-NOM  ಮಾಡಿದವರನ್ನು||ಮಾಡು||V-TR1-ABS-PAST-v>adj-RP-adj>n-PRON.avaru-n-ACC ಶಿಕ್ಷೆಗೆ||ಶಿಕ್ಷೆ||N-COM-UNC-N.SL-DAT ಗುರಿಪಡಿಸಲಾಗುತ್ತದೆ||ಗುರಿಪಡಿಸು||V-TR1-ABS-INF-AUX.aagu-ABS-PRES-P3.N.SL 
+ಯುದ್ಧ||ಯುದ್ಧ||N-COM-COU-N.SL-NOM  ಪ್ರಾರಂಭವಾಯಿತು||ಪ್ರಾರಂಭ||UNRESOLVED:N-COM-UNC-N.SL-NOM:n-SL-GEN-v-ABS-PAST-P3.N.SL-/n-SL-NOM-v-ABS-PAST-P3.N.SL-/n-SL-OBL-POSS.PL-v-ABS-PAST-P3.N.SL  
+ಇಂದಿನ||ಇಂದು||N-LOC-TIM-UNC-PROX-N.SL-GEN ಮಕ್ಕಳೇ||ಮಕ್ಕಳು||N-COM-COU-MF.PL-NOM-CLIT.ee ನಾಳೆಯ||ನಾಳೆ||N-LOC-TIM-UNC-ABS-N.SL-GEN ಪ್ರಜೆಗಳು||ಪ್ರಜೆ||N-COM-COU-MF.PL-NOM 
+ನೀನು||ನೀನು||PRO-PER-P2.MFN.SL-ABS-NOM  ಹೇಳಿದರೆ||ಹೇಳು||V-TR13-ABS-PAST-COND ನಾನು||ನಾನು||PRO-PER-P1.MFN.SL-ABS-NOM  ಬರುತ್ತೇನೆ||ಬರು||V-IN-ABS-PRES-P1.MFN.SL 
+ನೀನು||ನೀನು||PRO-PER-P2.MFN.SL-ABS-NOM  ಹೇಳಿದರೂ||ಹೇಳು||V-TR13-ABS-PAST-CONC ನಾನು||ನಾನು||PRO-PER-P1.MFN.SL-ABS-NOM  ಬರುವುದಿಲ್ಲ||ಬರು||V-IN-ABS-FUT-v>n-GRND-n-NOM-+V.illa.NEG.EXST 
+ನೀನು||ನೀನು||PRO-PER-P2.MFN.SL-ABS-NOM  ಬಂದ||ಬರು||V-IN-ABS-PAST-v>adj-RP ನಂತರ||ನಂತರ||N-LOC-TIM-UNC-ABS-N.SL-NOM  ನಾನು||ನಾನು||PRO-PER-P1.MFN.SL-ABS-NOM  ಬರುತ್ತೇನೆ||ಬರು||V-IN-ABS-PRES-P1.MFN.SL 
+ನೀನು||ನೀನು||PRO-PER-P2.MFN.SL-ABS-NOM  ಇನ್ನೂ||ಇನ್ನೂ||ADV-INTF  ಬರುತ್ತಿರುವಾಗಲೇ||ಬರು||V-IN-PROG-FUT-v>adj-RP-adj>adv-CLIT.aaga-CLIT.ee ನಾನೂ||ನಾನು||PRO-PER-P1.MFN.SL-ABS-NOM-CLIT.uu ಬಂದುಬಿಡುತ್ತೇನೆ||ಬರು||V-IN-CJP.PAST-AUX.biDu-ABS-PRES-P1.MFN.SL 
+ನೀನು||ನೀನು||PRO-PER-P2.MFN.SL-ABS-NOM  ಬರುವಷ್ಟರಲ್ಲಿ||ಬರು||V-IN-ABS-FUT-v>adj-RP-adj>n-CLIT.aShTu-n-LOC ನಾನು||ನಾನು||PRO-PER-P1.MFN.SL-ABS-NOM  ಬಂದಿರುತ್ತೇನೆ||ಬರು||V-IN-CJP.PAST-PERF-PRES-P1.MFN.SL 
+ನಿನ್ನಷ್ಟೆ||ನಿನ್ನ||PRO-PER-P2.MFN.SL-ABS-NOM-CLIT.aShTe ಬೇಗ||ಬೇಗ||ADV-TIM  ನಾನು||ನಾನು||PRO-PER-P1.MFN.SL-ABS-NOM  ನಡೆಯಲಾರೆ||ನಡೆ||V-IN-ABS-INF-NCAP-P12.MFN.SL 
+ನನಗೆ||ನನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT  ವಯಸ್ಸು||ವಯಸ್ಸು||N-COM-UNC-N.SL-NOM  ಆಗುತ್ತಿದೆ||ಆಗು||V-IN-PROG.PRES.P3.N.SL 
+ಮುದುಕರು||ಮುದುಕ||N-COM-COU-M.PL-NOM ಮೂಲೆಯಲ್ಲಿ||ಮೂಲೆ||N-COM-COU-N.SL-LOC ಕುಳಿತು||ಕುಳಿರು||V-IN-CJP.PAST ಹರಟೆ||ಹರಟೆ||N-COM-UNC-N.SL-NOM  ಹೊಡೆದರು||ಹೊಡೆ||V-TR1-ABS-PAST-P3.MF.PL 
+ಅವನಿಗೆ||ಅವನು||PRO-PER-P3.M.SL-DIST-DAT ಬರುವಂತೆ||ಬರು||V-IN-ABS-FUT-v>adj-RP-adj>adv-CLIT.aMte ಹೇಳು||ಹೇಳು||V-TR13  
+ಅವನನ್ನು||ಅವನು||PRO-PER-P3.M.SL-DIST-ACC ಬರದಂತೆ||ಬರಿ||UNRESOLVED:V-TR1:v-FUT.NEG.P3.N.SL-CLIT.aMte-/n-SL-NOM-CLIT.aMte-/v-ABS-NEG-v>adj-RP-adj>adv-CLIT.aMte  ತಡೆ||ತಡೆ||N-COM-COU-N.SL-NOM||V-TR1  
+ಅವನು||ಅವನು||PRO-PER-P3.M.SL-DIST-NOM  ಹೇಳಿದಂತೆ||ಹೇಳು||V-TR13-ABS-PAST-v>adj-RP-adj>adv-CLIT.aMte ಕೇಳು||ಕೇಳು||V-TR1  
+ಜಯವಿದ್ದರೆ||ಜಯ||UNRESOLVED:N-COM-UNC-N.SL-NOM:n-SL-NOM-v-ABS-PAST-COND-/n-SL-OBL-POSS.PL-v-ABS-PAST-COND  ಭಯವಿಲ್ಲ||ಭಯ||UNRESOLVED:N-COM-UNC-N.SL-NOM:n-SL-NOM-+V.illa.NEG.EXST-/n-SL-OBL-POSS.PL-+V.illa.NEG.EXST  
+ಪ್ರಜೆಗಳು||ಪ್ರಜೆ||N-COM-COU-MF.PL-NOM ರಾಜನಲ್ಲಿ||ರಾಜ||N-COM-COU-M.SL-LOC ಬೇಡಿಕೊಂಡರು||ಬೇಡು||V-TR1-CJP.PAST-REFL.koLLu-ABS-PAST-P3.MF.PL 
+ನೀನೇ||ನೀನು||PRO-PER-P2.MFN.SL-ABS-NOM-CLIT.ee ಗತಿ||ಗತಿ||N-COM-UNC-N.SL-NOM  
+ಕಾರು||ಕಾರು||N-COM-COU-N.SL-NOM||V-TR1  ಬಸ್ಸು||ಬಸ್ಸು||N-COM-COU-N.SL-NOM  ಡಿಕ್ಕಿ||ಡಿಕ್ಕಿ||N-COM-UNC-N.SL-NOM  ಹೊಡೆದು||ಹೊಡೆ||V-TR1-CJP.PAST ಐದು||ಐದು||N-CARD-NHU-N.SL-NOM  ಜನ||ಜನ||N-COM-COU-MF.PL-NOM  ಸತ್ತರು||ಸಾಯು||V-IN-ABS-PAST-P3.MF.PL 
+ಜನ||ಜನ||N-COM-COU-MF.PL-NOM  ದುಡ್ಡಿಗಾಗಿ||ದುಡ್ಡು||UNRESOLVED:N-COM-UNC-N.SL-NOM:n-SL-DAT-v-ABS-IMP.PL-/n-SL-DAT-v-CJP.PAST  ಏನನ್ನು||ಏನನ್ನು||ADV-QW  ಆದರೂ||ಆದರೂ||ADV-CONJ  ಮಾಡಲು||ಮಾಡು||V-TR1-ABS-INF ಸಿದ್ಧ||ಸಿದ್ಧ||ADJ-ABS  
+ಹಣ||ಹಣ||N-COM-UNC-N.SL-NOM  ಕಂಡರೆ||ಕಾಣು||V-TR13-ABS-PAST-COND ಹೆಣವೂ||ಹೆಣ||UNRESOLVED:N-COM-COU-N.SL-NOM:n-SL-OBL-POSS.PL-CLIT.uu-/n-SL-NOM-CLIT.uu  ಬಾಯಿ||ಬಾಯಿ||N-COM-UNC-N.SL-NOM  ಬಿಡುವುದಂತೆ||ಬಿಡು||V-TR1-ABS-FUT-v>n-GRND-n-NOM-CLIT.aMte 
+ಇಷ್ಟು||ಇಷ್ಟು||ADJ-QNTF  ಸಾಕು||ಸಾಕು||V-DEFE||V-TR1  
+
+
