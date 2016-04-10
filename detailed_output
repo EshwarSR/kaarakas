@@ -65,81 +65,81 @@ Kaarakas =  {'kartha': ['ಅವನು']}
 ==========================================================================
 6 ಅವಳು ಮನೆಗೆ ಹೋಗುವಳು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಅವಳು': 'PRO-PER-P3.F.SL-DIST-NOM', 'ಮನೆ': 'N-COM-COU-N.SL-DAT'} 
+ naamapadagalu =  {'ಮನೆ': 'N-COM-COU-N.SL-DAT', 'ಅವಳು': 'PRO-PER-P3.F.SL-DIST-NOM'} 
 kriyaapadagalu =  {'ಹೋಗು': 'V-IN-ABS-FUT-P3.F.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಹೋಗು': ['kartha']}
-naamapadagalu =  {'ಅವಳು': 'PRO-PER-P3.F.SL-DIST-NOM', 'ಮನೆ': 'N-COM-COU-N.SL-DAT'} 
+naamapadagalu =  {'ಮನೆ': 'N-COM-COU-N.SL-DAT', 'ಅವಳು': 'PRO-PER-P3.F.SL-DIST-NOM'} 
 kriyaapadagalu =  {'ಹೋಗು': 'V-IN-ABS-FUT-P3.F.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಅವಳು': {'kartha': 1}, 'ಮನೆ': {'sampradana': 0.5, 'destination': 0.5}}
+yogyatha =  {'ಮನೆ': {'sampradana': 0.5, 'destination': 0.5}, 'ಅವಳು': {'kartha': 1}}
 ----------------In constraint_propagation----------------
 Kaarakas =  {'sampradana': ['ಮನೆ'], 'destination': ['ಮನೆ'], 'kartha': ['ಅವಳು']}
 ==========================================================================
 7 ರಾಮನು ಹಣ್ಣನ್ನು ತಿಂದನು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+ naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.M.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.M.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಹಣ್ಣು': {'karma': 1}, 'ರಾಮ': {'kartha': 1}}
+yogyatha =  {'ರಾಮ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಹಣ್ಣು'], 'kartha': ['ರಾಮ']}
+Kaarakas =  {'kartha': ['ರಾಮ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 8 ರಾಮನು ಹಣ್ಣನ್ನು ತಿಂದುಬಿಟ್ಟನು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+ naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-CJP.PAST-AUX.biDu-ABS-PAST-P3.M.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-CJP.PAST-AUX.biDu-ABS-PAST-P3.M.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಹಣ್ಣು': {'karma': 1}, 'ರಾಮ': {'kartha': 1}}
+yogyatha =  {'ರಾಮ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಹಣ್ಣು'], 'kartha': ['ರಾಮ']}
+Kaarakas =  {'kartha': ['ರಾಮ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 9 ರಾಮನು ಹಣ್ಣುಗಳನ್ನು ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+ naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-CJP.PAST-AUX.haaku-CJP.PAST-AUX.biDu-ABS-PRES-P3.M.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-CJP.PAST-AUX.haaku-CJP.PAST-AUX.biDu-ABS-PRES-P3.M.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಹಣ್ಣು': {'karma': 1}, 'ರಾಮ': {'kartha': 1}}
+yogyatha =  {'ರಾಮ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಹಣ್ಣು'], 'kartha': ['ರಾಮ']}
+Kaarakas =  {'kartha': ['ರಾಮ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 10 ರಾಮನು ಹಣ್ಣುಗಳನ್ನೂ ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC-CLIT.uu', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+ naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC-CLIT.uu'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-CJP.PAST-AUX.haaku-CJP.PAST-AUX.biDu-ABS-PRES-P3.M.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC-CLIT.uu', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC-CLIT.uu'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-CJP.PAST-AUX.haaku-CJP.PAST-AUX.biDu-ABS-PRES-P3.M.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಹಣ್ಣು': {'karma': 1}, 'ರಾಮ': {'kartha': 1}}
+yogyatha =  {'ರಾಮ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಹಣ್ಣು'], 'kartha': ['ರಾಮ']}
+Kaarakas =  {'kartha': ['ರಾಮ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 11 ರಾಮನು ಹಣ್ಣುಗಳನ್ನು ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನಾ?
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+ naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-CJP.PAST-AUX.haaku-CJP.PAST-AUX.biDu-ABS-PRES-P3.M.SL-CLIT.INTG'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM'} 
+naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
 kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-CJP.PAST-AUX.haaku-CJP.PAST-AUX.biDu-ABS-PRES-P3.M.SL-CLIT.INTG'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಹಣ್ಣು': {'karma': 1}, 'ರಾಮ': {'kartha': 1}}
+yogyatha =  {'ರಾಮ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಹಣ್ಣು'], 'kartha': ['ರಾಮ']}
+Kaarakas =  {'kartha': ['ರಾಮ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 12 ನನಗೆ ನಿದ್ದೆ ಬರುತ್ತಿದೆ
 ----------------In parse_sentence----------------
@@ -152,20 +152,20 @@ kriyaapadagalu =  {'ಬರು': 'V-IN-PROG.PRES.P3.N.SL'}
 ----------------In process_naamapadagalu----------------
 yogyatha =  {'ನಿದ್ದೆ': {'kartha': 1}, 'ನನಗೆ': {'sampradana': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'sampradana': ['ನನಗೆ'], 'kartha': ['ನಿದ್ದೆ']}
+Kaarakas =  {'kartha': ['ನಿದ್ದೆ'], 'sampradana': ['ನನಗೆ']}
 ==========================================================================
 13 ಅವನು ನನಗೆ ದುಡ್ಡು ಕೊಡಬೇಕು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಅವನು': 'PRO-PER-P3.M.SL-DIST-NOM', 'ದುಡ್ಡು': 'N-COM-UNC-N.SL-NOM', 'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT'} 
+ naamapadagalu =  {'ದುಡ್ಡು': 'N-COM-UNC-N.SL-NOM', 'ಅವನು': 'PRO-PER-P3.M.SL-DIST-NOM', 'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT'} 
 kriyaapadagalu =  {'ಕೊಡು': 'V-BI1-ABS-INF-CMPL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಕೊಡು': ['kartha', 'karma', 'sampradana']}
-naamapadagalu =  {'ಅವನು': 'PRO-PER-P3.M.SL-DIST-NOM', 'ದುಡ್ಡು': 'N-COM-UNC-N.SL-NOM', 'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT'} 
+naamapadagalu =  {'ದುಡ್ಡು': 'N-COM-UNC-N.SL-NOM', 'ಅವನು': 'PRO-PER-P3.M.SL-DIST-NOM', 'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT'} 
 kriyaapadagalu =  {'ಕೊಡು': 'V-BI1-ABS-INF-CMPL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಅವನು': {'kartha': 1}, 'ದುಡ್ಡು': {'karma': 0.5}, 'ನನಗೆ': {'sampradana': 1}}
+yogyatha =  {'ನನಗೆ': {'sampradana': 1}, 'ಅವನು': {'kartha': 1}, 'ದುಡ್ಡು': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'sampradana': ['ನನಗೆ'], 'karma': ['ದುಡ್ಡು'], 'kartha': ['ಅವನು']}
+Kaarakas =  {'kartha': ['ಅವನು'], 'karma': ['ದುಡ್ಡು'], 'sampradana': ['ನನಗೆ']}
 ==========================================================================
 15 ದೇವರು ಒಳ್ಳೆಯದನ್ನು ಮಾಡಲಿ
 ----------------In parse_sentence----------------
@@ -191,7 +191,7 @@ kriyaapadagalu =  {'ಹೋಗು': 'V-IN-CJP.PAST-PERF.PRES-P3.F.SL'}
 ----------------In process_naamapadagalu----------------
 yogyatha =  {'ಅಕ್ಕ': {'kartha': 1}, 'ಎಲ್ಲಿ': {'destination': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'destination': ['ಎಲ್ಲಿ'], 'kartha': ['ಅಕ್ಕ']}
+Kaarakas =  {'kartha': ['ಅಕ್ಕ'], 'destination': ['ಎಲ್ಲಿ']}
 ==========================================================================
 17 ಅಣ್ಣ ಏನನ್ನು ತರುತ್ತಾನೆ?
 ----------------In parse_sentence----------------
@@ -208,16 +208,16 @@ Kaarakas =  {'kartha': ['ಅಣ್ಣ']}
 ==========================================================================
 18 ಅಮ್ಮ ಯಾರಿಗೆ ಮೊದಲು ದೋಸೆ ಕೊಡುತ್ತಾಳೆ?
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಯಾರು': 'PRO-INTG-P3.MF.PL-DAT', 'ದೋಸೆ': 'N-COM-COU-N.SL-NOM', 'ಅಮ್ಮ': 'N-COM-UNC-F.SL-NOM', 'ಮೊದಲು': 'N-LOC-PLTM-UNC-ABS-N.SL-NOM'} 
+ naamapadagalu =  {'ಯಾರು': 'PRO-INTG-P3.MF.PL-DAT', 'ಅಮ್ಮ': 'N-COM-UNC-F.SL-NOM', 'ದೋಸೆ': 'N-COM-COU-N.SL-NOM', 'ಮೊದಲು': 'N-LOC-PLTM-UNC-ABS-N.SL-NOM'} 
 kriyaapadagalu =  {'ಕೊಡು': 'V-BI1-ABS-PRES-P3.F.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಕೊಡು': ['kartha', 'karma', 'sampradana']}
-naamapadagalu =  {'ಯಾರು': 'PRO-INTG-P3.MF.PL-DAT', 'ದೋಸೆ': 'N-COM-COU-N.SL-NOM', 'ಅಮ್ಮ': 'N-COM-UNC-F.SL-NOM', 'ಮೊದಲು': 'N-LOC-PLTM-UNC-ABS-N.SL-NOM'} 
+naamapadagalu =  {'ಯಾರು': 'PRO-INTG-P3.MF.PL-DAT', 'ಅಮ್ಮ': 'N-COM-UNC-F.SL-NOM', 'ದೋಸೆ': 'N-COM-COU-N.SL-NOM', 'ಮೊದಲು': 'N-LOC-PLTM-UNC-ABS-N.SL-NOM'} 
 kriyaapadagalu =  {'ಕೊಡು': 'V-BI1-ABS-PRES-P3.F.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಯಾರು': {'sampradana': 0.5, 'destination': 0.5}, 'ದೋಸೆ': {'karma': 0.5}, 'ಅಮ್ಮ': {'kartha': 1}, 'ಮೊದಲು': {'karma': 0.5}}
+yogyatha =  {'ಅಮ್ಮ': {'kartha': 1}, 'ಯಾರು': {'sampradana': 0.5, 'destination': 0.5}, 'ದೋಸೆ': {'karma': 0.5}, 'ಮೊದಲು': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'sampradana': ['ಯಾರು'], 'destination': ['ಯಾರು'], 'karma': ['ದೋಸೆ', 'ಮೊದಲು']}
+Kaarakas =  {'sampradana': ['ಯಾರು'], 'destination': ['ಯಾರು'], 'karma': ['ದೋಸೆ', 'ಮೊದಲು'], 'kartha': ['ಅಮ್ಮ']}
 ==========================================================================
 19 ಯಾರು ಬಂದರು?
 ----------------In parse_sentence----------------
@@ -234,29 +234,29 @@ Kaarakas =  {'kartha': ['ಯಾರು']}
 ==========================================================================
 20 ಚಿಕ್ಕಮ್ಮ ಹೇಗೆ ಅಡುಗೆ ಮಾಡಬಲ್ಲಳು?
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಅಡುಗೆ': 'N-COM-COU-N.SL-NOM', 'ಚಿಕ್ಕಮ್ಮ': 'N-COM-COU-F.SL-NOM'} 
+ naamapadagalu =  {'ಚಿಕ್ಕಮ್ಮ': 'N-COM-COU-F.SL-NOM', 'ಅಡುಗೆ': 'N-COM-COU-N.SL-NOM'} 
 kriyaapadagalu =  {'ಮಾಡು': 'V-TR1-ABS-INF-CAPB-P3.F.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಮಾಡು': ['kartha', 'karma']}
-naamapadagalu =  {'ಅಡುಗೆ': 'N-COM-COU-N.SL-NOM', 'ಚಿಕ್ಕಮ್ಮ': 'N-COM-COU-F.SL-NOM'} 
+naamapadagalu =  {'ಚಿಕ್ಕಮ್ಮ': 'N-COM-COU-F.SL-NOM', 'ಅಡುಗೆ': 'N-COM-COU-N.SL-NOM'} 
 kriyaapadagalu =  {'ಮಾಡು': 'V-TR1-ABS-INF-CAPB-P3.F.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಅಡುಗೆ': {'karma': 0.5}, 'ಚಿಕ್ಕಮ್ಮ': {'kartha': 1}}
+yogyatha =  {'ಚಿಕ್ಕಮ್ಮ': {'kartha': 1}, 'ಅಡುಗೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಅಡುಗೆ'], 'kartha': ['ಚಿಕ್ಕಮ್ಮ']}
+Kaarakas =  {'kartha': ['ಚಿಕ್ಕಮ್ಮ'], 'karma': ['ಅಡುಗೆ']}
 ==========================================================================
 21 ಅಡುಗೆಮನೆಯಲ್ಲಿ ಏನೂ ಇಲ್ಲವಂತೆ
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಅಡುಗೆಮನೆ': 'N-COM-UNC-N.SL-LOC', 'ಏನೂ': 'PRO-QNTF-P3.N.PL-NOM'} 
+ naamapadagalu =  {'ಏನೂ': 'PRO-QNTF-P3.N.PL-NOM', 'ಅಡುಗೆಮನೆ': 'N-COM-UNC-N.SL-LOC'} 
 kriyaapadagalu =  {'ಇಲ್ಲವಂತೆ': 'V-DEFE-CLIT.aMte'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {}
-naamapadagalu =  {'ಅಡುಗೆಮನೆ': 'N-COM-UNC-N.SL-LOC', 'ಏನೂ': 'PRO-QNTF-P3.N.PL-NOM'} 
+naamapadagalu =  {'ಏನೂ': 'PRO-QNTF-P3.N.PL-NOM', 'ಅಡುಗೆಮನೆ': 'N-COM-UNC-N.SL-LOC'} 
 kriyaapadagalu =  {'ಇಲ್ಲವಂತೆ': 'V-DEFE-CLIT.aMte'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಅಡುಗೆಮನೆ': {'adhikaraNa': 1}, 'ಏನೂ': {'karma': 0.5}}
+yogyatha =  {'ಏನೂ': {'karma': 0.5}, 'ಅಡುಗೆಮನೆ': {'adhikaraNa': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಏನೂ'], 'adhikaraNa': ['ಅಡುಗೆಮನೆ']}
+Kaarakas =  {'adhikaraNa': ['ಅಡುಗೆಮನೆ'], 'karma': ['ಏನೂ']}
 ==========================================================================
 22 ಮಳೆ ಬರುತ್ತಿದೆ
 ----------------In parse_sentence----------------
@@ -273,14 +273,14 @@ Kaarakas =  {'kartha': ['ಮಳೆ']}
 ==========================================================================
 23 ಓದುವುದು ನನಗೆ ಕಷ್ಟ
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT', 'ಕಷ್ಟ': 'N-COM-COU-N.SL-NOM'} 
+ naamapadagalu =  {'ಕಷ್ಟ': 'N-COM-COU-N.SL-NOM', 'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT'} 
 kriyaapadagalu =  {'ಓದು': 'V-TR1-ABS-FUT-v>n-GRND-n-NOM'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಓದು': ['kartha', 'karma']}
-naamapadagalu =  {'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT', 'ಕಷ್ಟ': 'N-COM-COU-N.SL-NOM'} 
+naamapadagalu =  {'ಕಷ್ಟ': 'N-COM-COU-N.SL-NOM', 'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT'} 
 kriyaapadagalu =  {'ಓದು': 'V-TR1-ABS-FUT-v>n-GRND-n-NOM'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ನನಗೆ': {'sampradana': 1}, 'ಕಷ್ಟ': {'karma': 0.5}}
+yogyatha =  {'ಕಷ್ಟ': {'karma': 0.5}, 'ನನಗೆ': {'sampradana': 1}}
 ----------------In constraint_propagation----------------
 Kaarakas =  {'sampradana': ['ನನಗೆ'], 'karma': ['ಕಷ್ಟ']}
 ==========================================================================
@@ -306,22 +306,22 @@ aakanksha =  {'ಬೀಳು': ['kartha']}
 naamapadagalu =  {'ಕೆಳಕ್ಕೆ': 'N-LOC-PLA-UNC-ABS-N.SL-DAT', 'ಹಣ್ಣು': 'N-COM-COU-N.SL-NOM', 'ಮರ': 'N-COM-COU-N.SL-ABL'} 
 kriyaapadagalu =  {'ಬೀಳು': 'V-IN-ABS-PAST-P3.N.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಕೆಳಕ್ಕೆ': {'destination': 1}, 'ಹಣ್ಣು': {'kartha': 1}, 'ಮರ': {'apaadaana': 0.5, 'karaNa': 0.5}}
+yogyatha =  {'ಕೆಳಕ್ಕೆ': {'destination': 1}, 'ಮರ': {'karaNa': 0.5, 'apaadaana': 0.5}, 'ಹಣ್ಣು': {'kartha': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'destination': ['ಕೆಳಕ್ಕೆ'], 'apaadaana': ['ಮರ'], 'kartha': ['ಹಣ್ಣು'], 'karaNa': ['ಮರ']}
+Kaarakas =  {'kartha': ['ಹಣ್ಣು'], 'karaNa': ['ಮರ'], 'destination': ['ಕೆಳಕ್ಕೆ'], 'apaadaana': ['ಮರ']}
 ==========================================================================
 26 ಯಾರೂ ಮನೆಯಿಂದ ಹೊರಗೆ ಹೋಗಲೇಬಾರದು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಹೊರಗೆ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM', 'ಯಾರು': 'PRO-INTG-P3.MF.PL-NOM-CLIT.uu', 'ಮನೆ': 'N-COM-COU-N.SL-ABL'} 
+ naamapadagalu =  {'ಹೊರಗೆ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM', 'ಮನೆ': 'N-COM-COU-N.SL-ABL', 'ಯಾರು': 'PRO-INTG-P3.MF.PL-NOM-CLIT.uu'} 
 kriyaapadagalu =  {'ಹೋಗು': 'V-IN-ABS-INF-CLIT.ee-PROH'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಹೋಗು': ['kartha']}
-naamapadagalu =  {'ಹೊರಗೆ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM', 'ಯಾರು': 'PRO-INTG-P3.MF.PL-NOM-CLIT.uu', 'ಮನೆ': 'N-COM-COU-N.SL-ABL'} 
+naamapadagalu =  {'ಹೊರಗೆ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM', 'ಮನೆ': 'N-COM-COU-N.SL-ABL', 'ಯಾರು': 'PRO-INTG-P3.MF.PL-NOM-CLIT.uu'} 
 kriyaapadagalu =  {'ಹೋಗು': 'V-IN-ABS-INF-CLIT.ee-PROH'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಹೊರಗೆ': {'karma': 0.5}, 'ಯಾರು': {'karma': 0.5}, 'ಮನೆ': {'apaadaana': 0.5, 'karaNa': 0.5}}
+yogyatha =  {'ಹೊರಗೆ': {'karma': 0.5}, 'ಮನೆ': {'karaNa': 0.5, 'apaadaana': 0.5}, 'ಯಾರು': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'apaadaana': ['ಮನೆ'], 'karma': ['ಹೊರಗೆ', 'ಯಾರು']}
+Kaarakas =  {'karaNa': ['ಮನೆ'], 'karma': ['ಹೊರಗೆ', 'ಯಾರು']}
 ==========================================================================
 27 ಕೆಲವರು ಮನೆಯಿಂದ ಮನೆಗೆ ಅಲೆಯುತ್ತಾರೆ
 ----------------In parse_sentence----------------
@@ -358,9 +358,9 @@ aakanksha =  {'ಕೆರೆ': ['kartha', 'karma']}
 naamapadagalu =  {'ಕಾಲು': 'N-COM-COU-N.SL-ABL', 'ನಾಯಿ': 'N-COM-COU-N.PL-NOM', 'ನೆಲ': 'N-COM-UNC-N.SL-ACC'} 
 kriyaapadagalu =  {'ಕೆರೆ': 'V-TR1-ABS-PRES-P3.N.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಕಾಲು': {'apaadaana': 0.5, 'karaNa': 0.5}, 'ನಾಯಿ': {'kartha': 1}, 'ನೆಲ': {'karma': 1}}
+yogyatha =  {'ಕಾಲು': {'karaNa': 0.5, 'apaadaana': 0.5}, 'ನಾಯಿ': {'kartha': 1}, 'ನೆಲ': {'karma': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'apaadaana': ['ಕಾಲು'], 'karma': ['ನೆಲ'], 'kartha': ['ನಾಯಿ'], 'karaNa': ['ಕಾಲು']}
+Kaarakas =  {'kartha': ['ನಾಯಿ'], 'karaNa': ['ಕಾಲು'], 'karma': ['ನೆಲ'], 'apaadaana': ['ಕಾಲು']}
 ==========================================================================
 32 ನಾವು ನಿಮ್ಮೊಡನೆ ಬರಬಹುದಾ?
 ----------------In parse_sentence----------------
@@ -377,24 +377,24 @@ Kaarakas =  {'kartha': ['ನಾವು']}
 ==========================================================================
 33 ನಾವೂ ನಿಮ್ಮ ಜೊತೆ ಬರುತ್ತೇವೆ
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ನಾವು': 'PRO-PER-P1.MFN.PL-ABS-NOM-CLIT.uu', 'ನಿಮ್ಮ': 'PRO-PER-P2.MFN.PL-ABS-GEN', 'ಜೊತೆ': 'N-COM-UNC-N.SL-NOM'} 
+ naamapadagalu =  {'ನಾವು': 'PRO-PER-P1.MFN.PL-ABS-NOM-CLIT.uu', 'ಜೊತೆ': 'N-COM-UNC-N.SL-NOM', 'ನಿಮ್ಮ': 'PRO-PER-P2.MFN.PL-ABS-GEN'} 
 kriyaapadagalu =  {'ಬರು': 'V-IN-ABS-PRES-P1.MFN.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಬರು': ['kartha']}
-naamapadagalu =  {'ನಾವು': 'PRO-PER-P1.MFN.PL-ABS-NOM-CLIT.uu', 'ನಿಮ್ಮ': 'PRO-PER-P2.MFN.PL-ABS-GEN', 'ಜೊತೆ': 'N-COM-UNC-N.SL-NOM'} 
+naamapadagalu =  {'ನಾವು': 'PRO-PER-P1.MFN.PL-ABS-NOM-CLIT.uu', 'ಜೊತೆ': 'N-COM-UNC-N.SL-NOM', 'ನಿಮ್ಮ': 'PRO-PER-P2.MFN.PL-ABS-GEN'} 
 kriyaapadagalu =  {'ಬರು': 'V-IN-ABS-PRES-P1.MFN.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ನಾವು': {'kartha': 1}, 'ನಿಮ್ಮ': {}, 'ಜೊತೆ': {'karma': 0.5}}
+yogyatha =  {'ನಾವು': {'kartha': 1}, 'ಜೊತೆ': {'karma': 0.5}, 'ನಿಮ್ಮ': {}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಜೊತೆ'], 'kartha': ['ನಾವು']}
+Kaarakas =  {'kartha': ['ನಾವು'], 'karma': ['ಜೊತೆ']}
 ==========================================================================
 34 ಪೂರ್ವದ ಕಡೆ ನೋಡು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಕಡೆ': 'N-LOC-PLTM-UNC-ABS-N.SL-NOM', 'ಪೂರ್ವ': 'N-COM-UNC-N.SL-GEN'} 
+ naamapadagalu =  {'ಪೂರ್ವ': 'N-COM-UNC-N.SL-GEN', 'ಕಡೆ': 'N-LOC-PLTM-UNC-ABS-N.SL-NOM'} 
 kriyaapadagalu =  {'ನೋಡು': 'V-TR1'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ನೋಡು': ['kartha', 'karma']}
-naamapadagalu =  {'ಕಡೆ': 'N-LOC-PLTM-UNC-ABS-N.SL-NOM', 'ಪೂರ್ವ': 'N-COM-UNC-N.SL-GEN'} 
+naamapadagalu =  {'ಪೂರ್ವ': 'N-COM-UNC-N.SL-GEN', 'ಕಡೆ': 'N-LOC-PLTM-UNC-ABS-N.SL-NOM'} 
 kriyaapadagalu =  {'ನೋಡು': 'V-TR1'}
 ----------------In process_naamapadagalu----------------
 yogyatha =  {'ಪೂರ್ವ': {}, 'ಕಡೆ': {'karma': 0.5}}
@@ -403,42 +403,42 @@ Kaarakas =  {'karma': ['ಕಡೆ']}
 ==========================================================================
 35 ಸೂರ್ಯ ನೆತ್ತಿಯ ಮೇಲೆ ಬಂದಿದ್ದಾನೆ
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಮೇಲೆ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM', 'ಸೂರ್ಯ': 'N-COM-UNC-M.SL-NOM', 'ನೆತ್ತಿ': 'N-COM-UNC-N.SL-GEN'} 
+ naamapadagalu =  {'ಸೂರ್ಯ': 'N-COM-UNC-M.SL-NOM', 'ನೆತ್ತಿ': 'N-COM-UNC-N.SL-GEN', 'ಮೇಲೆ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM'} 
 kriyaapadagalu =  {'ಬರು': 'V-IN-CJP.PAST-PERF.PRES-P3.M.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಬರು': ['kartha']}
-naamapadagalu =  {'ಮೇಲೆ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM', 'ಸೂರ್ಯ': 'N-COM-UNC-M.SL-NOM', 'ನೆತ್ತಿ': 'N-COM-UNC-N.SL-GEN'} 
+naamapadagalu =  {'ಸೂರ್ಯ': 'N-COM-UNC-M.SL-NOM', 'ನೆತ್ತಿ': 'N-COM-UNC-N.SL-GEN', 'ಮೇಲೆ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM'} 
 kriyaapadagalu =  {'ಬರು': 'V-IN-CJP.PAST-PERF.PRES-P3.M.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಮೇಲೆ': {'karma': 0.5}, 'ಸೂರ್ಯ': {'kartha': 1}, 'ನೆತ್ತಿ': {}}
+yogyatha =  {'ಸೂರ್ಯ': {'kartha': 1}, 'ನೆತ್ತಿ': {}, 'ಮೇಲೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಮೇಲೆ'], 'kartha': ['ಸೂರ್ಯ']}
+Kaarakas =  {'kartha': ['ಸೂರ್ಯ'], 'karma': ['ಮೇಲೆ']}
 ==========================================================================
 36 ರಾಮನು ಸೀತೆಯ ಜೊತೆ ಕಾಡಿಗೆ ನಡೆದನು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಕಾಡಿಗೆ': 'N-COM-COU-N.SL-DAT', 'ಸೀತೆ': 'N-PRP-PER-F.SL-GEN', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಜೊತೆ': 'N-COM-UNC-N.SL-NOM'} 
+ naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಕಾಡಿಗೆ': 'N-COM-COU-N.SL-DAT', 'ಜೊತೆ': 'N-COM-UNC-N.SL-NOM', 'ಸೀತೆ': 'N-PRP-PER-F.SL-GEN'} 
 kriyaapadagalu =  {'ನಡೆ': 'V-IN-ABS-PAST-P3.M.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ನಡೆ': ['kartha']}
-naamapadagalu =  {'ಕಾಡಿಗೆ': 'N-COM-COU-N.SL-DAT', 'ಸೀತೆ': 'N-PRP-PER-F.SL-GEN', 'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಜೊತೆ': 'N-COM-UNC-N.SL-NOM'} 
+naamapadagalu =  {'ರಾಮ': 'N-PRP-PER-M.SL-NOM', 'ಕಾಡಿಗೆ': 'N-COM-COU-N.SL-DAT', 'ಜೊತೆ': 'N-COM-UNC-N.SL-NOM', 'ಸೀತೆ': 'N-PRP-PER-F.SL-GEN'} 
 kriyaapadagalu =  {'ನಡೆ': 'V-IN-ABS-PAST-P3.M.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಕಾಡಿಗೆ': {'sampradana': 0.5, 'destination': 0.5}, 'ಸೀತೆ': {}, 'ರಾಮ': {'kartha': 1}, 'ಜೊತೆ': {'karma': 0.5}}
+yogyatha =  {'ರಾಮ': {'kartha': 1}, 'ಸೀತೆ': {}, 'ಜೊತೆ': {'karma': 0.5}, 'ಕಾಡಿಗೆ': {'sampradana': 0.5, 'destination': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'sampradana': ['ಕಾಡಿಗೆ'], 'destination': ['ಕಾಡಿಗೆ'], 'karma': ['ಜೊತೆ'], 'kartha': ['ರಾಮ']}
+Kaarakas =  {'kartha': ['ರಾಮ'], 'destination': ['ಕಾಡಿಗೆ'], 'karma': ['ಜೊತೆ'], 'sampradana': ['ಕಾಡಿಗೆ']}
 ==========================================================================
 37 ಹುಡುಗರು ಬಾವಿಯಲ್ಲಿ ಇಣಕಿದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಬಾವಿ': 'N-COM-COU-N.SL-LOC', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM'} 
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಬಾವಿ': 'N-COM-COU-N.SL-LOC'} 
 kriyaapadagalu =  {'ಇಣಕು': 'V-IN-ABS-PAST-P3.MF.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಇಣಕು': ['kartha']}
-naamapadagalu =  {'ಬಾವಿ': 'N-COM-COU-N.SL-LOC', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM'} 
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಬಾವಿ': 'N-COM-COU-N.SL-LOC'} 
 kriyaapadagalu =  {'ಇಣಕು': 'V-IN-ABS-PAST-P3.MF.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಬಾವಿ': {'adhikaraNa': 1}, 'ಹುಡುಗ': {'karma': 0.5}}
+yogyatha =  {'ಹುಡುಗ': {'karma': 0.5}, 'ಬಾವಿ': {'adhikaraNa': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಹುಡುಗ'], 'adhikaraNa': ['ಬಾವಿ']}
+Kaarakas =  {'adhikaraNa': ['ಬಾವಿ'], 'karma': ['ಹುಡುಗ']}
 ==========================================================================
 38 ಸಂಜೆ ಹೋಗೋಣ
 ----------------In parse_sentence----------------
@@ -464,7 +464,7 @@ kriyaapadagalu =  {'ಬರು': 'V-IN-ABS-FUT-v>n-GRND-n-NOM-+V.illa.NEG.EXST'}
 ----------------In process_naamapadagalu----------------
 yogyatha =  {'ನಾನು': {'kartha': 1}, 'ನಿಮ್ಮ': {}, 'ನಾಳೆ': {'karma': 0.5}, 'ಮನೆ': {'sampradana': 0.5, 'destination': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'sampradana': ['ಮನೆ'], 'destination': ['ಮನೆ'], 'karma': ['ನಾಳೆ'], 'kartha': ['ನಾನು']}
+Kaarakas =  {'kartha': ['ನಾನು'], 'destination': ['ಮನೆ'], 'karma': ['ನಾಳೆ'], 'sampradana': ['ಮನೆ']}
 ==========================================================================
 40 ಹೇಳಲಾರೆ
 ----------------In parse_sentence----------------
@@ -520,16 +520,16 @@ Kaarakas =  {'sampradana': ['ನನಗೆ'], 'karma': ['ಬೆಲ್ಲ']}
 ==========================================================================
 46 ನನ್ನ ಹತ್ತಿರ ದುಡ್ಡು ಇಲ್ಲ
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ದುಡ್ಡು': 'N-COM-UNC-N.SL-NOM', 'ನನ್ನ': 'PRO-PER-P1.MFN.SL-ABS-GEN', 'ಹತ್ತಿರ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM'} 
+ naamapadagalu =  {'ನನ್ನ': 'PRO-PER-P1.MFN.SL-ABS-GEN', 'ಹತ್ತಿರ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM', 'ದುಡ್ಡು': 'N-COM-UNC-N.SL-NOM'} 
 kriyaapadagalu =  {'ಇಲ್ಲ': 'V-DEFE'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {}
-naamapadagalu =  {'ದುಡ್ಡು': 'N-COM-UNC-N.SL-NOM', 'ನನ್ನ': 'PRO-PER-P1.MFN.SL-ABS-GEN', 'ಹತ್ತಿರ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM'} 
+naamapadagalu =  {'ನನ್ನ': 'PRO-PER-P1.MFN.SL-ABS-GEN', 'ಹತ್ತಿರ': 'N-LOC-PLA-UNC-ABS-N.SL-NOM', 'ದುಡ್ಡು': 'N-COM-UNC-N.SL-NOM'} 
 kriyaapadagalu =  {'ಇಲ್ಲ': 'V-DEFE'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ದುಡ್ಡು': {'karma': 0.5}, 'ನನ್ನ': {}, 'ಹತ್ತಿರ': {'karma': 0.5}}
+yogyatha =  {'ನನ್ನ': {}, 'ಹತ್ತಿರ': {'karma': 0.5}, 'ದುಡ್ಡು': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ದುಡ್ಡು', 'ಹತ್ತಿರ']}
+Kaarakas =  {'karma': ['ಹತ್ತಿರ', 'ದುಡ್ಡು']}
 ==========================================================================
 48 ಅದು ಏಕೆ ಹಾಗಿದೆ?
 ----------------In parse_sentence----------------
@@ -546,198 +546,198 @@ Kaarakas =  {'kartha': ['ಅದು']}
 ==========================================================================
 50 ಹುಡುಗರು ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 51 ಹುಡುಗರು ಮೂರು ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಮೂರು': 'N-CARD-NHU-N.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಮೂರು': 'N-CARD-NHU-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಮೂರು': 'N-CARD-NHU-N.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಮೂರು': 'N-CARD-NHU-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಮೂರು': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}, 'ಮೂರು': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ', 'ಮೂರು']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 52 ಹುಡುಗರು ಮೂರು ದೊಡ್ಡ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಮೂರು': 'N-CARD-NHU-N.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಮೂರು': 'N-CARD-NHU-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಮೂರು': 'N-CARD-NHU-N.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಮೂರು': 'N-CARD-NHU-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಮೂರು': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}, 'ಮೂರು': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ', 'ಮೂರು']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 53 ಹುಡುಗರು ಕೊನೆಯ ಮರದ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಕೊನೆ': 'N-LOC-PLTM-UNC-ABS-N.SL-GEN', 'ಮರ': 'N-COM-COU-N.SL-GEN', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಕೊನೆ': 'N-LOC-PLTM-UNC-ABS-N.SL-GEN', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಮರ': 'N-COM-COU-N.SL-GEN', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಕೊನೆ': 'N-LOC-PLTM-UNC-ABS-N.SL-GEN', 'ಮರ': 'N-COM-COU-N.SL-GEN', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಕೊನೆ': 'N-LOC-PLTM-UNC-ABS-N.SL-GEN', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಮರ': 'N-COM-COU-N.SL-GEN', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಕೊನೆ': {'adhikaraNa': 1}, 'ಮರ': {}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಕೊನೆ': {'adhikaraNa': 1}, 'ಹುಡುಗ': {'kartha': 1}, 'ಮರ': {}, 'ಸೀಬೆ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಸೀಬೆ'], 'adhikaraNa': ['ಕೊನೆ']}
 ==========================================================================
 55 ಹುಡುಗರು ಆ ಗಿಡದ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಗಿಡ': 'N-COM-COU-N.SL-GEN', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಗಿಡ': 'N-COM-COU-N.SL-GEN', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಗಿಡ': 'N-COM-COU-N.SL-GEN', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಗಿಡ': 'N-COM-COU-N.SL-GEN', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಗಿಡ': {}, 'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಗಿಡ': {}, 'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 56 ಹುಡುಗರು ಅನೇಕ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 57 ಹುಡುಗರು ಕೆಲವು ದೊಡ್ಡ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 58 ಹುಡುಗರು ಕೆಂಪು ಬಣ್ಣದ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಬಣ್ಣ': 'N-COM-COU-N.SL-GEN', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಬಣ್ಣ': 'N-COM-COU-N.SL-GEN', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಬಣ್ಣ': 'N-COM-COU-N.SL-GEN', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಬಣ್ಣ': 'N-COM-COU-N.SL-GEN', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಬಣ್ಣ': {}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಬಣ್ಣ': {}, 'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 59 ಹುಡುಗರು ಚೆನ್ನಾಗಿ ಹಣ್ಣಾದ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 60 ಹುಡುಗರು ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ಬೇಗ ಬೇಗ ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 61 ಹುಡುಗರು ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ನಿಧಾನವಾಗಿ ತಿಂದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 62 ಹುಡುಗರು ಯಾವ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು?
 ----------------In parse_sentence----------------
  naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
 naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಹುಡುಗ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 63 ಹುಡುಗರು ಚಿಕ್ಕ ಚಿಕ್ಕ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ಏಕೆ ತಿಂದರು?
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ತಿನ್ನು': ['kartha', 'karma']}
-naamapadagalu =  {'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM', 'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC'} 
-kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.PL-ACC', 'ಸೀಬೆ': 'N-COM-UNC-N.SL-NOM'} 
+kriyaapadagalu =  {'ತಿನ್ನು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಸೀಬೆ': {'karma': 0.5}, 'ಹುಡುಗ': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಸೀಬೆ': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಸೀಬೆ', 'ಹುಡುಗ']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 67 ಹುಡುಗರು ಹಲ್ಲು ಮತ್ತು ಹಣ್ಣನ್ನು ಸೇವಿಸಿದರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಲ್ಲು': 'N-COM-COU-N.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC'} 
-kriyaapadagalu =  {'ಸೇವಿಸು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+ naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC', 'ಹಲ್ಲು': 'N-COM-COU-N.SL-NOM'} 
+kriyaapadagalu =  {'ಸೇವಿಸು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಸೇವಿಸು': ['kartha', 'karma']}
-naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಲ್ಲು': 'N-COM-COU-N.SL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC'} 
-kriyaapadagalu =  {'ಸೇವಿಸು': 'V-TR1-ABS-PAST-P3.MF.PL'}
+naamapadagalu =  {'ಹುಡುಗ': 'N-COM-COU-M.PL-NOM', 'ಹಣ್ಣು': 'N-COM-COU-N.SL-ACC', 'ಹಲ್ಲು': 'N-COM-COU-N.SL-NOM'} 
+kriyaapadagalu =  {'ಸೇವಿಸು': 'V-TR1-ABS-PAST-P3.FM.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಹುಡುಗ': {'karma': 0.5}, 'ಹಲ್ಲು': {'karma': 0.5}, 'ಹಣ್ಣು': {'karma': 1}}
+yogyatha =  {'ಹುಡುಗ': {'kartha': 1}, 'ಹಣ್ಣು': {'karma': 1}, 'ಹಲ್ಲು': {'karma': 0.5}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'karma': ['ಹುಡುಗ', 'ಹಲ್ಲು']}
+Kaarakas =  {'kartha': ['ಹುಡುಗ'], 'karma': ['ಹಣ್ಣು']}
 ==========================================================================
 70 ನನಗೆ ಹಸಿವು ಆಗುತ್ತಿದೆ
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT', 'ಹಸಿವು': 'N-COM-UNC-N.SL-NOM'} 
+ naamapadagalu =  {'ಹಸಿವು': 'N-COM-UNC-N.SL-NOM', 'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT'} 
 kriyaapadagalu =  {'ಆಗು': 'V-IN-PROG.PRES.P3.N.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಆಗು': ['kartha']}
-naamapadagalu =  {'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT', 'ಹಸಿವು': 'N-COM-UNC-N.SL-NOM'} 
+naamapadagalu =  {'ಹಸಿವು': 'N-COM-UNC-N.SL-NOM', 'ನನಗೆ': 'PRO-PER-P1.MFN.SL-ABS-DAT'} 
 kriyaapadagalu =  {'ಆಗು': 'V-IN-PROG.PRES.P3.N.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ನನಗೆ': {'sampradana': 1}, 'ಹಸಿವು': {'kartha': 1}}
+yogyatha =  {'ಹಸಿವು': {'kartha': 1}, 'ನನಗೆ': {'sampradana': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'sampradana': ['ನನಗೆ'], 'kartha': ['ಹಸಿವು']}
+Kaarakas =  {'kartha': ['ಹಸಿವು'], 'sampradana': ['ನನಗೆ']}
 ==========================================================================
 74 ಹುಡುಗನು ತೋಟಕ್ಕೆ ಹೋಗಿದ್ದಾನೆ
 ----------------In parse_sentence----------------
@@ -819,16 +819,16 @@ Kaarakas =  {'kartha': ['ನೀನು', 'ನಾನು']}
 ==========================================================================
 87 ನಿನ್ನಷ್ಟೆ ಬೇಗ ನಾನು ನಡೆಯಲಾರೆ
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ನಿನ್ನ': 'PRO-PER-P2.MFN.SL-ABS-NOM-CLIT.aShTe', 'ನಾನು': 'PRO-PER-P1.MFN.SL-ABS-NOM'} 
+ naamapadagalu =  {'ನಾನು': 'PRO-PER-P1.MFN.SL-ABS-NOM', 'ನಿನ್ನ': 'PRO-PER-P2.MFN.SL-ABS-NOM-CLIT.aShTe'} 
 kriyaapadagalu =  {'ನಡೆ': 'V-IN-ABS-INF-NCAP-P12.MFN.SL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ನಡೆ': ['kartha']}
-naamapadagalu =  {'ನಿನ್ನ': 'PRO-PER-P2.MFN.SL-ABS-NOM-CLIT.aShTe', 'ನಾನು': 'PRO-PER-P1.MFN.SL-ABS-NOM'} 
+naamapadagalu =  {'ನಾನು': 'PRO-PER-P1.MFN.SL-ABS-NOM', 'ನಿನ್ನ': 'PRO-PER-P2.MFN.SL-ABS-NOM-CLIT.aShTe'} 
 kriyaapadagalu =  {'ನಡೆ': 'V-IN-ABS-INF-NCAP-P12.MFN.SL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ನಿನ್ನ': {'kartha': 1}, 'ನಾನು': {'kartha': 1}}
+yogyatha =  {'ನಾನು': {'kartha': 1}, 'ನಿನ್ನ': {'kartha': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'kartha': ['ನಿನ್ನ', 'ನಾನು']}
+Kaarakas =  {'kartha': ['ನಾನು', 'ನಿನ್ನ']}
 ==========================================================================
 88 ನನಗೆ ವಯಸ್ಸು ಆಗುತ್ತಿದೆ
 ----------------In parse_sentence----------------
@@ -841,18 +841,18 @@ kriyaapadagalu =  {'ಆಗು': 'V-IN-PROG.PRES.P3.N.SL'}
 ----------------In process_naamapadagalu----------------
 yogyatha =  {'ವಯಸ್ಸು': {'kartha': 1}, 'ನನಗೆ': {'sampradana': 1}}
 ----------------In constraint_propagation----------------
-Kaarakas =  {'sampradana': ['ನನಗೆ'], 'kartha': ['ವಯಸ್ಸು']}
+Kaarakas =  {'kartha': ['ವಯಸ್ಸು'], 'sampradana': ['ನನಗೆ']}
 ==========================================================================
 94 ಪ್ರಜೆಗಳು ರಾಜನಲ್ಲಿ ಬೇಡಿಕೊಂಡರು
 ----------------In parse_sentence----------------
- naamapadagalu =  {'ಪ್ರಜೆ': 'N-COM-COU-MF.PL-NOM', 'ರಾಜ': 'N-COM-COU-M.SL-LOC'} 
+ naamapadagalu =  {'ರಾಜ': 'N-COM-COU-M.SL-LOC', 'ಪ್ರಜೆ': 'N-COM-COU-MF.PL-NOM'} 
 kriyaapadagalu =  {'ಬೇಡು': 'V-TR1-CJP.PAST-REFL.koLLu-ABS-PAST-P3.MF.PL'}
 ----------------In process_kriyaapadagalu----------------
 aakanksha =  {'ಬೇಡು': ['kartha', 'karma']}
-naamapadagalu =  {'ಪ್ರಜೆ': 'N-COM-COU-MF.PL-NOM', 'ರಾಜ': 'N-COM-COU-M.SL-LOC'} 
+naamapadagalu =  {'ರಾಜ': 'N-COM-COU-M.SL-LOC', 'ಪ್ರಜೆ': 'N-COM-COU-MF.PL-NOM'} 
 kriyaapadagalu =  {'ಬೇಡು': 'V-TR1-CJP.PAST-REFL.koLLu-ABS-PAST-P3.MF.PL'}
 ----------------In process_naamapadagalu----------------
-yogyatha =  {'ಪ್ರಜೆ': {'kartha': 1}, 'ರಾಜ': {'adhikaraNa': 1}}
+yogyatha =  {'ರಾಜ': {'adhikaraNa': 1}, 'ಪ್ರಜೆ': {'kartha': 1}}
 ----------------In constraint_propagation----------------
 Kaarakas =  {'kartha': ['ಪ್ರಜೆ'], 'adhikaraNa': ['ರಾಜ']}
 ==========================================================================

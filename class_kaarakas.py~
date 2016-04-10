@@ -37,7 +37,7 @@ class Kaarakas:
 
 			if pos == "V":
 				self.kriyaapadagalu[word.split("||")[1]] = word.split("||")[2]
-		print ("----------------In parse_sentence----------------\n", "naamapadagalu = " ,self.naamapadagalu ,"\nkriyaapadagalu = ", self.kriyaapadagalu)
+		#print ("----------------In parse_sentence----------------\n", "naamapadagalu = " ,self.naamapadagalu ,"\nkriyaapadagalu = ", self.kriyaapadagalu)
 		#print(len(self.kriyaapadagalu))
 
 
@@ -57,9 +57,9 @@ class Kaarakas:
 
 			elif "BI" in tags[1]:
 				self.aakanksha[kriyaapada] = ["kartha","karma","sampradana"]
-		print("----------------In process_kriyaapadagalu----------------")
-		print("aakanksha = ",self.aakanksha)
-		print("naamapadagalu = " ,self.naamapadagalu ,"\nkriyaapadagalu = ", self.kriyaapadagalu)
+		#print("----------------In process_kriyaapadagalu----------------")
+		#print("aakanksha = ",self.aakanksha)
+		#print("naamapadagalu = " ,self.naamapadagalu ,"\nkriyaapadagalu = ", self.kriyaapadagalu)
 
 
 	def process_naamapadagalu(self):
@@ -111,8 +111,8 @@ class Kaarakas:
 			elif "LOC" in tags:
 				self.yogyatha[naamapada]["adhikaraNa"] = 1
 
-		print("----------------In process_naamapadagalu----------------")
-		print("yogyatha = ",self.yogyatha)
+		#print("----------------In process_naamapadagalu----------------")
+		#print("yogyatha = ",self.yogyatha)
 
 
 
@@ -158,7 +158,7 @@ class Kaarakas:
 						kaaraka_list = kaaraka_list[1:]
 
 		
-		print("----------------In constraint_propagation----------------")
+		#print("----------------In constraint_propagation----------------")
 		print("Kaarakas = " , self.kaarakas)
 
 
