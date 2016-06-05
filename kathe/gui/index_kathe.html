@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html>
+<meta charset=utf-8>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<link rel="stylesheet"  type="text/css" href="css/w3.css">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<style>
+html {
+    height: 100%;
+    margin:0px;
+    background: url("img/ಕಾಡು.jpg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+</style>
+</head>
+
+<body id="body">
+
+<div class="box" z-default=10 z-hover=30 style="background-color:rgba(255,255,255,0.8);position:fixed;left:0px;width:25%;">
+  <h3 class="box-content"style="text-align: center;color:#455A64">Semantic Kannada Parser</h3>
+</div>
+
+<div class="box"
+style="position:fixed;left:0px;top:52px;overflow:scroll;padding-bottom:50px;float:left;width:25%;height:100%;color:black ;background-color:rgba(255,255,255,0.8);"z-default=10 z-hover=30>
+<h5 style="color:#007FFF">Sentences<h5><hr>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಇತ್ತು||ಇತ್ತು\':{\'adhikaraNa\': [\'ಕಾಡಿನಲ್ಲಿ||ಕಾಡು\'], \'kartha\': [\'ಮೊಲ||ಮೊಲ\']}}]',event)">1.ಒಂದು ಕಾಡಿನಲ್ಲಿ ಒಂದು ಮೊಲ ಇತ್ತು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ನೆಗೆಯುತ್ತಾ||ನೆಗೆ\':{\'adhikaraNa\': [\'ದಿನ||ದಿನ\'], \'kartha\': [\'ಮೊಲ||ಮೊಲ\']}}, {\'ಓಡಾಡುತ್ತಿತ್ತು||ಓಡಾಡು\':{\'adhikaraNa\': [\'ದಿನ||ದಿನ\'], \'kartha\': [\'ಮೊಲ||ಮೊಲ\']}}]',event)">2.ಮೊಲ ಒಂದು ದಿನ ಅತ್ತಿತ್ತ ನೆಗೆಯುತ್ತಾ ಓಡಾಡುತ್ತಿತ್ತು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಬಂದಿತು||ಬರು\':{\'adhikaraNa\': [\'ಆಗ||ಆಗ\'], \'destination\': [\'ಎದುರಿಗೆ||ಎದುರು\'], \'kartha\': [\'ಸಿಂಹ||ಸಿಂಹ\']}}]',event)">3.ಆಗ ಒಂದು ಸಿಂಹ ಎದುರಿಗೆ ಬಂದಿತು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಕಂಡು||ಕಾಣು\':{\'kartha\': [\'ಮೊಲ||ಮೊಲ\'], \'karma\': [\'ಸಿಂಹವನ್ನು||ಸಿಂಹ\']}}, {\'ಹೆದರಿತು||ಹೆದರು\':{\'kartha\': [\'ಮೊಲ||ಮೊಲ\']}}]',event)">4.ಮೊಲ ಸಿಂಹವನ್ನು ಕಂಡು ಹೆದರಿತು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[\'NEG\']','[{\'ತೋರಿಸಿಕೊಳ್ಳದೆ||ತೋರಿಸು\':{\'kartha\': [\'ಮೊಲ||ಮೊಲ\'], \'karma\': [\'ಹೆದರಿಕೆಯನ್ನು||ಹೆದರಿಕೆ\']}}, {\'ಮಾತನಾಡಿತು||ಮಾತನಾಡು\':{\'kartha\': [\'ಮೊಲ||ಮೊಲ\']}}]',event)">5.ಆದರು ಮೊಲ ಹೆದರಿಕೆಯನ್ನು ತೋರಿಸಿಕೊಳ್ಳದೆ ಮಾತನಾಡಿತು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಬಂದಿದೆ||ಬರು\':{\'adhikaraNa\': [\'ಕಾಡಿನಲ್ಲಿ||ಕಾಡು\'], \'kartha\': [\'ಸಿಂಹ||ಸಿಂಹ\']}}, {\'ಗೊತ್ತೆ||ಗೊತ್ತೆ\':{\'karma\': [\'ನಿನಗೆ||ನಿನಗೆ\']}}]',event)">6.ಈ ಕಾಡಿನಲ್ಲಿ ಇನ್ನೊಂದು ಸಿಂಹ ಬಂದಿದೆ ನಿನಗೆ ಗೊತ್ತೆ</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಕೇಳಿ||ಕೇಳು\':{\'kartha\': [\'ಸಿಂಹವು||ಸಿಂಹ\'], \'karma\': [\'ಇದನ್ನು||ಇದು\']}}, {\'ಚಕಿತಗೊಂಡಿತು||ಚಕಿತಗೊಳ್ಳು\':{\'kartha\': [\'ಸಿಂಹವು||ಸಿಂಹ\']}}]',event)">7.ಸಿಂಹವು ಇದನ್ನು ಕೇಳಿ ಚಕಿತಗೊಂಡಿತು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ತೊರಿಸುತ್ತೇನೆ||ತೋರಿಸು\':{\'karma\': [\'ಸಿಂಹವನ್ನು||ಸಿಂಹ\'], \'kartha\': [\'ಮೊಲವು||ಮೊಲ\']}}, {\'ಕರೆದುಕೊಂಡು_ಹೋಯಿತು||ಕರೆದುಕೊಂಡು_ಹೋಗು\':{\'destination\': [\'ಬಾವಿಯ_ಕಡೆಗೆ||ಬಾವಿಯ_ಕಡೆ\'], \'kartha\': [\'ಮೊಲವು||ಮೊಲ\'], \'karma\': [\'ಸಿಂಹವನ್ನು||ಸಿಂಹ\']}}]',event)">8.ಮೊಲವು ಇನ್ನೊಂದು ಸಿಂಹವನ್ನು ತೊರಿಸುತ್ತೇನೆ ಎಂದು ಸಿಂಹವನ್ನು ಒಂದು ಬಾವಿಯ_ಕಡೆಗೆ ಕರೆದುಕೊಂಡು_ಹೋಯಿತು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಇಣಕಿ_ನೋಡಿ||ಇಣಕಿ_ನೋಡು\':{\'adhikaraNa\': [\'ಬಾವಿಯಲ್ಲಿ||ಬಾವಿ\'], \'kartha\': [\'ಸಿಂಹವು||ಸಿಂಹ\']}}, {\'ನೋಡಿ||ನೋಡು\':{\'kartha\': [\'ಸಿಂಹವು||ಸಿಂಹ\'], \'karma\': [\'ಪ್ರತಿಬಿಂಬವನ್ನೇ||ಪ್ರತಿಬಿಂಬ\']}}, {\'ಎಂದುಕೊಂಡು||ಎನ್ನು\':{\'kartha\': [\'ಸಿಂಹವು||ಸಿಂಹ\'], \'karma\': [\'ಸಿಂಹ||ಸಿಂಹ\']}}, {\'ಧುಮುಕಿತು||ಧುಮುಕು\':{\'destination\': [\'ಬಾವಿಗೆ||ಬಾವಿ\'], \'kartha\': [\'ಸಿಂಹವು||ಸಿಂಹ\']}}]',event)">9.ಸಿಂಹವು ಬಾವಿಯಲ್ಲಿ ಇಣಕಿ_ನೋಡಿ ತನ್ನ ಪ್ರತಿಬಿಂಬವನ್ನೇ ನೋಡಿ ಇನ್ನೊಂದು ಸಿಂಹ ಎಂದುಕೊಂಡು ಬಾವಿಗೆ ಧುಮುಕಿತು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಮರಳಿತು||ಮರಳು\':{\'destination\': [\'ಮನೆಗೆ||ಮನೆ\'], \'kartha\': [\'ಮೊಲವು||ಮೊಲ\']}}]',event)">10.ಮೊಲವು ಮನೆಗೆ ಮರಳಿತು</h2>
+</div>
+
+<div class="box" style="position:fixed;right:0px;height:auto;float:right;width:15%;color:black ;margin-left:20px;padding-top:20px;margin-top: -14px;background-color:rgba(255,255,255,0.8);"z-default=10 z-hover=30>
+
+<table style="font-size:12px;text-align:left;color:#455A64">
+<tr><td><div class="color_info" style="background-color:#FF5722"></div></td> <td>Kartha(ಕರ್ತೃ)</td></tr>
+        <tr><td><div class="color_info" style="background-color:#009688"></div></td> <td>Karma(ಕರ್ಮ)</td></tr>
+
+        <tr><td><div class="color_info" style="background-color:#FFC107"></div></td> <td>KaraNa(ಕರಣ)</td></tr>
+		        <tr><td><div class="color_info"style="background-color:#03A9F4"></div></td> <td>Sampradana(ಸಂಪ್ರದಾನ)</td></tr>
+        <tr><td><div class="color_info"style="background-color:#4CAF50"></div></td> <td>Apadana(ಅಪಾದಾನ)</td></tr>
+
+         <tr><td><div class="color_info"style="background-color:#E91E63"></div></td> <td>AdhikaraNa(ಅಧಿಕರಣ)</td></tr>
+          <tr><td><div class="color_info"style="background-color:#3F51B5"></div></td> <td>Destination</td></tr>
+</table>
+</div>
+
+
+     <div id="box" style="margin: 0 auto; top:20px " align="center">
+
+  	<img id="img_anim" class="dot" src="gif/kannada.gif" onerror="this.onerror=null;this.src='gif/404.gif'"  alt="">
+
+  </div>
+
+
+
+
+<script type="text/javascript" src="js/jq.js">
+</script>
+	<script type="text/javascript" src="js/main.js">
+	</script>
+</body>
+</html>
+

@@ -1,0 +1,10 @@
+ಒಂದು||ಒಂದು||N-CARD-NHU-N.SL-NOM ಕಾಡಿನಲ್ಲಿ||ಕಾಡು||N-COM-COU-N.SL-LOC ಒಂದು||ಒಂದು||N-CARD-NHU-N.SL-NOM ಮೊಲ||ಮೊಲ||N-ANIM-COU-N.SL-NOM ಇತ್ತು||ಇತ್ತು||V-IN-ABS-PAST-P3.N.SL
+ಮೊಲ||ಮೊಲ||N-ANIM-COU-N.SL-NOM ಒಂದು||ಒಂದು||N-CARD-NHU-N.SL-NOM ದಿನ||ದಿನ||N-LOC-TIM-COU-ABS-N.SL-NOM ಅತ್ತಿತ್ತ||ಅತ್ತಿತ್ತ||ADV-PLA ನೆಗೆಯುತ್ತಾ||ನೆಗೆ||V-IN-ABS-PRES-CJP.PRES ಓಡಾಡುತ್ತಿತ್ತು||ಓಡಾಡು||V-IN-PROG-PAST-P3.N.SL
+ಆಗ||ಆಗ||N-LOC-TIM-UNC-ABS-N.SL-NOM ಒಂದು||ಒಂದು||N-CARD-NHU-N.SL-NOM ಸಿಂಹ||ಸಿಂಹ||N-ANIM-COU-N.SL-NOM ಎದುರಿಗೆ||ಎದುರು||N-LOC-PLA-UNC-ABS-N.SL-DAT ಬಂದಿತು||ಬರು||V-IN-ABS-PAST-P3.N.SL
+ಮೊಲ||ಮೊಲ||N-ANIM-COU-N.SL-NOM ಸಿಂಹವನ್ನು||ಸಿಂಹ||N-ANIM-COU-N.SL-ACC ಕಂಡು||ಕಾಣು||V-TR13-CJP.PAST ಹೆದರಿತು||ಹೆದರು||V-IN-ABS-PAST-P3.N.SL
+ಆದರು||ಆದರು||ADV-CONJ ಮೊಲ||ಮೊಲ||N-ANIM-COU-N.SL-NOM ಹೆದರಿಕೆಯನ್ನು||ಹೆದರಿಕೆ||N-COM-UNC-N.SL-ACC ತೋರಿಸಿಕೊಳ್ಳದೆ||ತೋರಿಸು||V-TR1-CJP.PAST-REFL.koLLu-ABS-NEG-CJP-CLIT.ee ಮಾತನಾಡಿತು||ಮಾತನಾಡು||V-IN-ABS-PAST-P3.N.SL
+ಈ||ಈ||ADJ-DEM ಕಾಡಿನಲ್ಲಿ||ಕಾಡು||N-COM-COU-N.SL-LOC ಇನ್ನೊಂದು||ಇನ್ನೊಂದು||ADJ-QNTF ಸಿಂಹ||ಸಿಂಹ||N-ANIM-COU-N.SL-NOM ಬಂದಿದೆ||ಬರು||V-IN-CJP.PAST-+V.ide ನಿನಗೆ||ನಿನಗೆ||PRO-PER-P1.MFN.SL-ABS-DAT ಗೊತ್ತೆ||ಗೊತ್ತೆ||V-DEFE-CLIT.ee
+ಸಿಂಹವು||ಸಿಂಹ||N-ANIM-COU-N.SL-NOM ಇದನ್ನು||ಇದು||PRO-PER-P3.N.SL-PROX-ACC ಕೇಳಿ||ಕೇಳು||V-TR1-SL ಚಕಿತಗೊಂಡಿತು||ಚಕಿತಗೊಳ್ಳು||V-IN-ABS-PAST-P3.N.SL
+ಮೊಲವು||ಮೊಲ||N-ANIM-COU-N.SL-NOM ಇನ್ನೊಂದು||ಇನ್ನೊಂದು||ADJ-QNTF ಸಿಂಹವನ್ನು||ಸಿಂಹ||N-ANIM-COU-N.SL-ACC ತೊರಿಸುತ್ತೇನೆ||ತೋರಿಸು||V-TR1-ABS-PRES-P1.MFN.SL ಎಂದು||ಎಂದು||CONJ-SUB ಸಿಂಹವನ್ನು||ಸಿಂಹ||N-ANIM-COU-N.SL-ACC ಒಂದು||ಒಂದು||N-CARD-NHU-N.SL-NOM ಬಾವಿಯ_ಕಡೆಗೆ||ಬಾವಿಯ_ಕಡೆ||N-LOC-PLTM-UNC-ABS-N.SL-DAT ಕರೆದುಕೊಂಡು_ಹೋಯಿತು||ಕರೆದುಕೊಂಡು_ಹೋಗು||V-TR1-ABS-PAST-P3.N.SL
+ಸಿಂಹವು||ಸಿಂಹ||N-ANIM-COU-N.SL-NOM ಬಾವಿಯಲ್ಲಿ||ಬಾವಿ||N-COM-COU-N.SL-LOC ಇಣಕಿ_ನೋಡಿ||ಇಣಕಿ_ನೋಡು||V-IN-ABS-PAST-P3.MFN.SL ತನ್ನ||ತನ್ನ||PRO-REF-P3.MFN.SL-GEN ಪ್ರತಿಬಿಂಬವನ್ನೇ||ಪ್ರತಿಬಿಂಬ||N-COM-COU-N.SL-ACC-CLIT.ee ನೋಡಿ||ನೋಡು||V-TR1-ABS-CJP.PAST ಇನ್ನೊಂದು||ಇನ್ನೊಂದು||ADJ-QNTF ಸಿಂಹ||ಸಿಂಹ||N-ANIM-COU-N.SL-NOM ಎಂದುಕೊಂಡು||ಎನ್ನು||V-IN-CJP.PAST-REFL.koLLu-CJP.PAST  ಬಾವಿಗೆ||ಬಾವಿ||N-COM-COU-N.SL-DAT ಧುಮುಕಿತು||ಧುಮುಕು||V-IN-ABS-PAST-P3.N.SL
+ಮೊಲವು||ಮೊಲ||N-ANIM-COU-N.SL-NOM ಮನೆಗೆ||ಮನೆ||N-COM-COU-N.SL-DAT ಮರಳಿತು||ಮರಳು||V-IN-ABS-PAST-P3.N.SL

@@ -1,0 +1,4081 @@
+{
+    "ಹೇಳಲಾರೆ": {
+        "kaarakas": {
+            "ಹೇಳಲಾರೆ||ಹೇಳು": {
+                "kartha": [
+                    "ನಾನು||ನಾನು or ನೀನು||ನೀನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೇಳಲಾರೆ||ಹೇಳು"
+        ],
+        "namapada_data": {},
+        "kriyaapada_data": {
+            "ಹೇಳಲಾರೆ||ಹೇಳು": {
+                "gender": "MFN",
+                "type": "TR13",
+                "count": "SL",
+                "person": "P12",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಅಡುಗೆಮನೆಯಲ್ಲಿ ಏನೂ ಇಲ್ಲವಂತೆ": {
+        "kaarakas": {
+            "ಇಲ್ಲವಂತೆ||ಇಲ್ಲವಂತೆ": {
+                "adhikaraNa": [
+                    "ಅಡುಗೆಮನೆಯಲ್ಲಿ||ಅಡುಗೆಮನೆ"
+                ],
+                "karma": [
+                    "ಏನೂ||ಏನೂ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಇಲ್ಲವಂತೆ||ಇಲ್ಲವಂತೆ"
+        ],
+        "namapada_data": {
+            "ಅಡುಗೆಮನೆಯಲ್ಲಿ||ಅಡುಗೆಮನೆ": {
+                "case": "LOC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಏನೂ||ಏನೂ": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಇಲ್ಲವಂತೆ||ಇಲ್ಲವಂತೆ": {
+                "gender": "",
+                "type": "DEFE",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಚೆನ್ನಾಗಿ ಹಣ್ಣಾದ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಇಲ್ಲಿ ಬಟ್ಟೆ ಹೊಲೆದುಕೊಡಲಾಗುತ್ತದೆ": {
+        "kaarakas": {
+            "ಹೊಲೆದುಕೊಡಲಾಗುತ್ತದೆ||ಹೊಲೆ": {
+                "adhikaraNa": [
+                    "ಇಲ್ಲಿ||ಇಲ್ಲಿ"
+                ],
+                "karma": [
+                    "ಬಟ್ಟೆ||ಬಟ್ಟೆ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೊಲೆದುಕೊಡಲಾಗುತ್ತದೆ||ಹೊಲೆ"
+        ],
+        "namapada_data": {
+            "ಇಲ್ಲಿ||ಇಲ್ಲಿ": {
+                "case": "NOM",
+                "type": "LOC-PLA",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಬಟ್ಟೆ||ಬಟ್ಟೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೊಲೆದುಕೊಡಲಾಗುತ್ತದೆ||ಹೊಲೆ": {
+                "gender": "N",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ನಾವು ನಿಮ್ಮೊಡನೆ ಬರಬಹುದಾ?": {
+        "kaarakas": {
+            "ಬರಬಹುದಾ||ಬರು": {
+                "kartha": [
+                    "ನಾವು||ನಾವು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬರಬಹುದಾ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನಾವು||ನಾವು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ನಿಮ್ಮೊಡನೆ||ನಿಮ್ಮ": {
+                "case": "SOC1",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರಬಹುದಾ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": "INTG"
+            }
+        }
+    },
+    "ರಾಮನು ಹಣ್ಣುಗಳನ್ನು ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನಾ?": {
+        "kaarakas": {
+            "ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನಾ||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನಾ||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ರಾಮನು||ರಾಮ": {
+                "case": "NOM",
+                "type": "PRP-PER",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನಾ||ತಿನ್ನು": {
+                "gender": "M",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": "INTG"
+            }
+        }
+    },
+    "ಆ ದಿನ ರಾಮನು ಬೇಗ ಎದ್ದು ಶೌಚ ಸ್ನಾನ ಇತ್ಯಾದಿಗಳನ್ನು ಮುಗಿಸಿಕೊಂಡು ದೇವರ ಪೂಜೆ ಮಾಡಿ ಕೈಯಲ್ಲಿ ಚೀಲ ಹಿಡಿದು ಸಾಮಾನು ತರಲು ಪೇಟೆಗೆ ಹೊರಟನು": {
+        "kaarakas": {
+            "ಹಿಡಿದು||ಹಿಡಿ": {
+                "karaNa": [
+                    "ಕೈಯಲ್ಲಿ||ಕೈ"
+                ],
+                "adhikaraNa": [
+                    "ದಿನ||ದಿನ"
+                ],
+                "karma": [
+                    "ಚೀಲ||ಚೀಲ"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            },
+            "ಹೊರಟನು||ಹೊರಡು": {
+                "adhikaraNa": [
+                    "ದಿನ||ದಿನ"
+                ],
+                "destination": [
+                    "ಪೇಟೆಗೆ||ಪೇಟೆ"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            },
+            "ಮುಗಿಸಿಕೊಂಡು||ಮುಗಿಸು": {
+                "adhikaraNa": [
+                    "ದಿನ||ದಿನ"
+                ],
+                "karma": [
+                    "ಇತ್ಯಾದಿಗಳನ್ನು||ಇತ್ಯಾದಿ",
+                    "ಸ್ನಾನ||ಸ್ನಾನ",
+                    "ಶೌಚ||ಶೌಚ"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            },
+            "ಮಾಡಿ||ಮಾಡು": {
+                "adhikaraNa": [
+                    "ದಿನ||ದಿನ"
+                ],
+                "karma": [
+                    "ಪೂಜೆ||ಪೂಜೆ"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            },
+            "ತರಲು||ತರು": {
+                "adhikaraNa": [
+                    "ದಿನ||ದಿನ"
+                ],
+                "karma": [
+                    "ಸಾಮಾನು||ಸಾಮಾನು"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            },
+            "ಎದ್ದು||ಏಳು": {
+                "adhikaraNa": [
+                    "ದಿನ||ದಿನ"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಎದ್ದು||ಏಳು",
+            "ಮುಗಿಸಿಕೊಂಡು||ಮುಗಿಸು",
+            "ಮಾಡಿ||ಮಾಡು",
+            "ಹಿಡಿದು||ಹಿಡಿ",
+            "ತರಲು||ತರು",
+            "ಹೊರಟನು||ಹೊರಡು"
+        ],
+        "namapada_data": {
+            "ದಿನ||ದಿನ": {
+                "case": "NOM",
+                "type": "LOC-TIM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಸಾಮಾನು||ಸಾಮಾನು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಇತ್ಯಾದಿಗಳನ್ನು||ಇತ್ಯಾದಿ": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಕೈಯಲ್ಲಿ||ಕೈ": {
+                "case": "LOC",
+                "type": "BODY",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ರಾಮನು||ರಾಮ": {
+                "case": "NOM",
+                "type": "PRP-PER",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ದೇವರ||ದೇವರು": {
+                "case": "GEN",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಚೀಲ||ಚೀಲ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಪೂಜೆ||ಪೂಜೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಪೇಟೆಗೆ||ಪೇಟೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹಿಡಿದು||ಹಿಡಿ": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಹೊರಟನು||ಹೊರಡು": {
+                "gender": "M",
+                "type": "IN",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            },
+            "ಮುಗಿಸಿಕೊಂಡು||ಮುಗಿಸು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಮಾಡಿ||ಮಾಡು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ತರಲು||ತರು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಎದ್ದು||ಏಳು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಬನ್ನಿ": {
+        "kaarakas": {
+            "ಬನ್ನಿ||ಬನ್ನಿ": {
+                "kartha": [
+                    "ನೀವು||ನೀವು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬನ್ನಿ||ಬನ್ನಿ"
+        ],
+        "namapada_data": {},
+        "kriyaapada_data": {
+            "ಬನ್ನಿ||ಬನ್ನಿ": {
+                "gender": "",
+                "type": "IN",
+                "count": "PL",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನಿಮಗೆ ಏನು ಬೇಕು": {
+        "kaarakas": {
+            "ಬೇಕು||ಬೇಕು": {
+                "sampradana": [
+                    "ನಿಮಗೆ||ನಿಮಗೆ"
+                ],
+                "karma": [
+                    "ಏನು||ಏನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬೇಕು||ಬೇಕು"
+        ],
+        "namapada_data": {
+            "ನಿಮಗೆ||ನಿಮಗೆ": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಏನು||ಏನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": "QW"
+            }
+        },
+        "kriyaapada_data": {
+            "ಬೇಕು||ಬೇಕು": {
+                "gender": "",
+                "type": "DEFE",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಅವಳು ಮನೆಗೆ ಹೋಗುವಳು": {
+        "kaarakas": {
+            "ಹೋಗುವಳು||ಹೋಗು": {
+                "destination": [
+                    "ಮನೆಗೆ||ಮನೆ"
+                ],
+                "kartha": [
+                    "ಅವಳು||ಅವಳು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೋಗುವಳು||ಹೋಗು"
+        ],
+        "namapada_data": {
+            "ಅವಳು||ಅವಳು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "F",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮನೆಗೆ||ಮನೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೋಗುವಳು||ಹೋಗು": {
+                "gender": "F",
+                "type": "IN",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನನಗೆ ಬೆಲ್ಲ ಬೇಕು": {
+        "kaarakas": {
+            "ಬೇಕು||ಬೇಕು": {
+                "sampradana": [
+                    "ನನಗೆ||ನನಗೆ"
+                ],
+                "karma": [
+                    "ಬೆಲ್ಲ||ಬೆಲ್ಲ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬೇಕು||ಬೇಕು"
+        ],
+        "namapada_data": {
+            "ನನಗೆ||ನನಗೆ": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಬೆಲ್ಲ||ಬೆಲ್ಲ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬೇಕು||ಬೇಕು": {
+                "gender": "",
+                "type": "DEFE",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಯಾರು ಬಂದರು?": {
+        "kaarakas": {
+            "ಬಂದರು||ಬರು": {
+                "kartha": [
+                    "ಯಾರು||ಯಾರು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಂದರು||ಬರು"
+        ],
+        "namapada_data": {
+            "ಯಾರು||ಯಾರು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "MF",
+                "count": "PL",
+                "anim_info": "INTG"
+            }
+        },
+        "kriyaapada_data": {
+            "ಬಂದರು||ಬರು": {
+                "gender": "MF",
+                "type": "IN",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಮೂರು ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಮೂರು||ಮೂರು": {
+                "case": "NOM",
+                "type": "CARD",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಅಕ್ಕ ಎಲ್ಲಿಗೆ ಹೋಗಿದ್ದಾಳೆ?": {
+        "kaarakas": {
+            "ಹೋಗಿದ್ದಾಳೆ||ಹೋಗು": {
+                "destination": [
+                    "ಎಲ್ಲಿಗೆ||ಎಲ್ಲಿ"
+                ],
+                "kartha": [
+                    "ಅಕ್ಕ||ಅಕ್ಕ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೋಗಿದ್ದಾಳೆ||ಹೋಗು"
+        ],
+        "namapada_data": {
+            "ಅಕ್ಕ||ಅಕ್ಕ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "F",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಎಲ್ಲಿಗೆ||ಎಲ್ಲಿ": {
+                "case": "DAT",
+                "type": "LOC-PLA",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": "QW"
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೋಗಿದ್ದಾಳೆ||ಹೋಗು": {
+                "gender": "F",
+                "type": "IN",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ಅವನು ನನಗೆ ದುಡ್ಡು ಕೊಡಲಿಲ್ಲ": {
+        "kaarakas": {
+            "ಕೊಡಲಿಲ್ಲ||ಕೊಡು": {
+                "sampradana": [
+                    "ನನಗೆ||ನನಗೆ"
+                ],
+                "karma": [
+                    "ದುಡ್ಡು||ದುಡ್ಡು"
+                ],
+                "kartha": [
+                    "ಅವನು||ಅವನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕೊಡಲಿಲ್ಲ||ಕೊಡು"
+        ],
+        "namapada_data": {
+            "ನನಗೆ||ನನಗೆ": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಅವನು||ಅವನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ದುಡ್ಡು||ದುಡ್ಡು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಕೊಡಲಿಲ್ಲ||ಕೊಡು": {
+                "gender": "",
+                "type": "BI1",
+                "count": "",
+                "person": "",
+                "anim_info": "NEG"
+            }
+        }
+    },
+    "ಹುಡುಗರು ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ಬೇಗ ಬೇಗ ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಕೆಲವು ದೊಡ್ಡ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನನಗೆ ಹಸಿವು ಆಗುತ್ತಿದೆ": {
+        "kaarakas": {
+            "ಆಗುತ್ತಿದೆ||ಆಗು": {
+                "karma": [
+                    "ನನಗೆ||ನನಗೆ"
+                ],
+                "kartha": [
+                    "ಹಸಿವು||ಹಸಿವು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಆಗುತ್ತಿದೆ||ಆಗು"
+        ],
+        "namapada_data": {
+            "ನನಗೆ||ನನಗೆ": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಸಿವು||ಹಸಿವು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಆಗುತ್ತಿದೆ||ಆಗು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ಇಷ್ಟು ಸಾಕು": {
+        "kaarakas": {
+            "ಸಾಕು||ಸಾಕು": {}
+        },
+        "kriyaapada_order": [
+            "ಸಾಕು||ಸಾಕು"
+        ],
+        "namapada_data": {},
+        "kriyaapada_data": {
+            "ಸಾಕು||ಸಾಕು": {
+                "gender": "",
+                "type": "DEFE||V",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಅವನನ್ನು ಬರದಂತೆ ತಡೆ": {
+        "kaarakas": {
+            "ತಡೆ||ತಡೆ": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            },
+            "ಬರದಂತೆ||ಬರು": {
+                "karma": [
+                    "ಅವನನ್ನು||ಅವನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬರದಂತೆ||ಬರು",
+            "ತಡೆ||ತಡೆ"
+        ],
+        "namapada_data": {
+            "ಅವನನ್ನು||ಅವನು": {
+                "case": "ACC",
+                "type": "PER",
+                "person": "P3",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಡೆ||ತಡೆ": {
+                "gender": "",
+                "type": "TR1",
+                "count": "SL",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಬರದಂತೆ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": "NEG"
+            }
+        }
+    },
+    "ನೀನು ಹೇಳಿದರೂ ನಾನು ಬರುವುದಿಲ್ಲ": {
+        "kaarakas": {
+            "ಬರುವುದಿಲ್ಲ||ಬರು": {
+                "kartha": [
+                    "ನಾನು||ನಾನು"
+                ]
+            },
+            "ಹೇಳಿದರೂ||ಹೇಳು": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೇಳಿದರೂ||ಹೇಳು",
+            "ಬರುವುದಿಲ್ಲ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನಾನು||ನಾನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನೀನು||ನೀನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರುವುದಿಲ್ಲ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": "NEG"
+            },
+            "ಹೇಳಿದರೂ||ಹೇಳು": {
+                "gender": "",
+                "type": "TR13",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಹಣ್ಣು ತಿನ್ನದೆ ಮನೆಗೆ ಹೋದರು": {
+        "kaarakas": {
+            "ತಿನ್ನದೆ||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            },
+            "ಹೋದರು||ಹೋಗು": {
+                "destination": [
+                    "ಮನೆಗೆ||ಮನೆ"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿನ್ನದೆ||ತಿನ್ನು",
+            "ಹೋದರು||ಹೋಗು"
+        ],
+        "namapada_data": {
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣು||ಹಣ್ಣು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮನೆಗೆ||ಮನೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿನ್ನದೆ||ತಿನ್ನು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": "NEG"
+            },
+            "ಹೋದರು||ಹೋಗು": {
+                "gender": "FM",
+                "type": "IN",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಕಾರು ಬಸ್ಸು ಡಿಕ್ಕಿ ಹೊಡೆದು ಐದು ಜನ ಸತ್ತರು": {
+        "kaarakas": {
+            "ಸತ್ತರು||ಸಾಯು": {
+                "karma": [
+                    "ಜನ||ಜನ"
+                ]
+            },
+            "ಡಿಕ್ಕಿಹೊಡೆದು||ಡಿಕ್ಕಿಹೊಡೆ": {
+                "kartha": [
+                    "ಕಾರು||ಕಾರು",
+                    "ಬಸ್ಸು||ಬಸ್ಸು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಡಿಕ್ಕಿಹೊಡೆದು||ಡಿಕ್ಕಿಹೊಡೆ",
+            "ಸತ್ತರು||ಸಾಯು"
+        ],
+        "namapada_data": {
+            "ಕಾರು||ಕಾರು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಐದು||ಐದು": {
+                "case": "NOM",
+                "type": "CARD",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಬಸ್ಸು||ಬಸ್ಸು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಜನ||ಜನ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "MF",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಸತ್ತರು||ಸಾಯು": {
+                "gender": "MF",
+                "type": "IN",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            },
+            "ಡಿಕ್ಕಿಹೊಡೆದು||ಡಿಕ್ಕಿಹೊಡೆ": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ತಿನ್ನು": {
+        "kaarakas": {
+            "ತಿನ್ನು||ತಿನ್ನು": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿನ್ನು||ತಿನ್ನು"
+        ],
+        "namapada_data": {},
+        "kriyaapada_data": {
+            "ತಿನ್ನು||ತಿನ್ನು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "SL",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಹಣ್ಣು ತಿಂದು ಮನೆಗೆ ಹೋದರು": {
+        "kaarakas": {
+            "ಹೋದರು||ಹೋಗು": {
+                "destination": [
+                    "ಮನೆಗೆ||ಮನೆ"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            },
+            "ತಿಂದು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದು||ತಿನ್ನು",
+            "ಹೋದರು||ಹೋಗು"
+        ],
+        "namapada_data": {
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣು||ಹಣ್ಣು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮನೆಗೆ||ಮನೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೋದರು||ಹೋಗು": {
+                "gender": "FM",
+                "type": "IN",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            },
+            "ತಿಂದು||ತಿನ್ನು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಹಣ್ಣು ತಿನ್ನುತ್ತಾ ಮನೆಗೆ ಹೋದರು": {
+        "kaarakas": {
+            "ಹೋದರು||ಹೋಗು": {
+                "destination": [
+                    "ಮನೆಗೆ||ಮನೆ"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            },
+            "ತಿನ್ನುತ್ತಾ||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿನ್ನುತ್ತಾ||ತಿನ್ನು",
+            "ಹೋದರು||ಹೋಗು"
+        ],
+        "namapada_data": {
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣು||ಹಣ್ಣು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮನೆಗೆ||ಮನೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೋದರು||ಹೋಗು": {
+                "gender": "FM",
+                "type": "IN",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            },
+            "ತಿನ್ನುತ್ತಾ||ತಿನ್ನು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ಅವನು ನನಗೆ ದುಡ್ಡು ಕೊಡಬೇಕು": {
+        "kaarakas": {
+            "ಕೊಡಬೇಕು||ಕೊಡು": {
+                "sampradana": [
+                    "ನನಗೆ||ನನಗೆ"
+                ],
+                "karma": [
+                    "ದುಡ್ಡು||ದುಡ್ಡು"
+                ],
+                "kartha": [
+                    "ಅವನು||ಅವನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕೊಡಬೇಕು||ಕೊಡು"
+        ],
+        "namapada_data": {
+            "ನನಗೆ||ನನಗೆ": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಅವನು||ಅವನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ದುಡ್ಡು||ದುಡ್ಡು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಕೊಡಬೇಕು||ಕೊಡು": {
+                "gender": "",
+                "type": "BI1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಬಾ": {
+        "kaarakas": {
+            "ಬಾ||ಬಾ": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಾ||ಬಾ"
+        ],
+        "namapada_data": {},
+        "kriyaapada_data": {
+            "ಬಾ||ಬಾ": {
+                "gender": "",
+                "type": "IN",
+                "count": "SL",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಕೆಟ್ಟ ಪುಸ್ತಕಗಳನ್ನು ಓದಬಾರದು": {
+        "kaarakas": {
+            "ಓದಬಾರದು||ಓದು": {
+                "karma": [
+                    "ಪುಸ್ತಕಗಳನ್ನು||ಪುಸ್ತಕ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಓದಬಾರದು||ಓದು"
+        ],
+        "namapada_data": {
+            "ಪುಸ್ತಕಗಳನ್ನು||ಪುಸ್ತಕ": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಓದಬಾರದು||ಓದು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": "PROH"
+            }
+        }
+    },
+    "ಇಲ್ಲಿ ಯಾರೂ ಮೂತ್ರ ವಿಸರ್ಜನೆ ಮಾಡಬಾರದು": {
+        "kaarakas": {
+            "ಮಾಡಬಾರದು||ಮಾಡು": {
+                "adhikaraNa": [
+                    "ಇಲ್ಲಿ||ಇಲ್ಲಿ"
+                ],
+                "karma": [
+                    "ವಿಸರ್ಜನೆ||ವಿಸರ್ಜನೆ",
+                    "ಮೂತ್ರ||ಮೂತ್ರ"
+                ],
+                "kartha": [
+                    "ಯಾರೂ||ಯಾರು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಮಾಡಬಾರದು||ಮಾಡು"
+        ],
+        "namapada_data": {
+            "ವಿಸರ್ಜನೆ||ವಿಸರ್ಜನೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಯಾರೂ||ಯಾರು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "MF",
+                "count": "PL",
+                "anim_info": "INTG"
+            },
+            "ಮೂತ್ರ||ಮೂತ್ರ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಇಲ್ಲಿ||ಇಲ್ಲಿ": {
+                "case": "NOM",
+                "type": "LOC-PLA",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಮಾಡಬಾರದು||ಮಾಡು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": "PROH"
+            }
+        }
+    },
+    "ಅಣ್ಣ ಏನನ್ನು ತರುತ್ತಾನೆ?": {
+        "kaarakas": {
+            "ತರುತ್ತಾನೆ||ತರು": {
+                "karma": [
+                    "ಏನನ್ನು||ಏನನ್ನು"
+                ],
+                "kartha": [
+                    "ಅಣ್ಣ||ಅಣ್ಣ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತರುತ್ತಾನೆ||ತರು"
+        ],
+        "namapada_data": {
+            "ಅಣ್ಣ||ಅಣ್ಣ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಏನನ್ನು||ಏನನ್ನು": {
+                "case": "ACC",
+                "type": "PER",
+                "person": "P3",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": "QW"
+            }
+        },
+        "kriyaapada_data": {
+            "ತರುತ್ತಾನೆ||ತರು": {
+                "gender": "M",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ರಾಮನು ಹಣ್ಣನ್ನು ತಿಂದನು": {
+        "kaarakas": {
+            "ತಿಂದನು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದನು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಹಣ್ಣನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ರಾಮನು||ರಾಮ": {
+                "case": "NOM",
+                "type": "PRP-PER",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದನು||ತಿನ್ನು": {
+                "gender": "M",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಸಂಜೆ ಹೋಗೋಣ": {
+        "kaarakas": {
+            "ಹೋಗೋಣ||ಹೋಗು": {
+                "destination": [
+                    "ಸಂಜೆ||ಸಂಜೆ"
+                ],
+                "kartha": [
+                    "ನಾವು||ನಾವು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೋಗೋಣ||ಹೋಗು"
+        ],
+        "namapada_data": {
+            "ಸಂಜೆ||ಸಂಜೆ": {
+                "case": "NOM",
+                "type": "LOC-TIM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೋಗೋಣ||ಹೋಗು": {
+                "gender": "",
+                "type": "IN",
+                "count": "PL",
+                "person": "P1",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನಾನು ನಾಳೆ ನಿಮ್ಮ ಮನೆಗೆ ಬರುವುದಿಲ್ಲ": {
+        "kaarakas": {
+            "ಬರುವುದಿಲ್ಲ||ಬರು": {
+                "destination": [
+                    "ನಾಳೆ||ನಾಳೆ"
+                ],
+                "kartha": [
+                    "ನಾನು||ನಾನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬರುವುದಿಲ್ಲ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನಾನು||ನಾನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನಿಮ್ಮ||ನಿಮ್ಮ": {
+                "case": "GEN",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಮನೆಗೆ||ಮನೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನಾಳೆ||ನಾಳೆ": {
+                "case": "NOM",
+                "type": "LOC-TIM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರುವುದಿಲ್ಲ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": "NEG"
+            }
+        }
+    },
+    "ಅವನು ಹೇಳಿದಂತೆ ಕೇಳು": {
+        "kaarakas": {
+            "ಕೇಳು||ಕೇಳು": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            },
+            "ಹೇಳಿದಂತೆ||ಹೇಳು": {
+                "kartha": [
+                    "ಅವನು||ಅವನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೇಳಿದಂತೆ||ಹೇಳು",
+            "ಕೇಳು||ಕೇಳು"
+        ],
+        "namapada_data": {
+            "ಅವನು||ಅವನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಕೇಳು||ಕೇಳು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "SL",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಹೇಳಿದಂತೆ||ಹೇಳು": {
+                "gender": "",
+                "type": "TR13",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ರಾಮನು ಹಣ್ಣುಗಳನ್ನೂ ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ": {
+        "kaarakas": {
+            "ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನೂ||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಹಣ್ಣುಗಳನ್ನೂ||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ರಾಮನು||ರಾಮ": {
+                "case": "NOM",
+                "type": "PRP-PER",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ||ತಿನ್ನು": {
+                "gender": "M",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ನಾವೂ ನಿಮ್ಮ ಜೊತೆ ಬರುತ್ತೇವೆ": {
+        "kaarakas": {
+            "ಬರುತ್ತೇವೆ||ಬರು": {
+                "kartha": [
+                    "ನಾವೂ||ನಾವು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬರುತ್ತೇವೆ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನಿಮ್ಮ||ನಿಮ್ಮ": {
+                "case": "GEN",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ನಾವೂ||ನಾವು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರುತ್ತೇವೆ||ಬರು": {
+                "gender": "MFN",
+                "type": "IN",
+                "count": "PL",
+                "person": "P1",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ನಾಯಿಗಳು ಕಾಲಿನಿಂದ ನೆಲವನ್ನು ಕೆರೆಯುತ್ತವೆ": {
+        "kaarakas": {
+            "ಕೆರೆಯುತ್ತವೆ||ಕೆರೆ": {
+                "karaNa": [
+                    "ಕಾಲಿನಿಂದ||ಕಾಲು"
+                ],
+                "karma": [
+                    "ನೆಲವನ್ನು||ನೆಲ"
+                ],
+                "kartha": [
+                    "ನಾಯಿಗಳು||ನಾಯಿ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕೆರೆಯುತ್ತವೆ||ಕೆರೆ"
+        ],
+        "namapada_data": {
+            "ನಾಯಿಗಳು||ನಾಯಿ": {
+                "case": "NOM",
+                "type": "ANIM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ನೆಲವನ್ನು||ನೆಲ": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಕಾಲಿನಿಂದ||ಕಾಲು": {
+                "case": "ABL",
+                "type": "BODY",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಕೆರೆಯುತ್ತವೆ||ಕೆರೆ": {
+                "gender": "N",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ಹುಡುಗರು ಅನೇಕ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಮರದಿಂದ ಹಣ್ಣು ಕೆಳಕ್ಕೆ ಬಿದ್ದಿತು": {
+        "kaarakas": {
+            "ಬಿದ್ದಿತು||ಬೀಳು": {
+                "karma": [
+                    "ಹಣ್ಣು||ಹಣ್ಣು"
+                ],
+                "apaadaana": [
+                    "ಮರದಿಂದ||ಮರ"
+                ],
+                "destination": [
+                    "ಕೆಳಕ್ಕೆ||ಕೆಳಕ್ಕೆ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಿದ್ದಿತು||ಬೀಳು"
+        ],
+        "namapada_data": {
+            "ಕೆಳಕ್ಕೆ||ಕೆಳಕ್ಕೆ": {
+                "case": "DAT",
+                "type": "LOC-PLA",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣು||ಹಣ್ಣು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮರದಿಂದ||ಮರ": {
+                "case": "ABL",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬಿದ್ದಿತು||ಬೀಳು": {
+                "gender": "N",
+                "type": "IN",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಮೂರು ದೊಡ್ಡ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಮೂರು||ಮೂರು": {
+                "case": "NOM",
+                "type": "CARD",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನೀರು ಕುಡಿಯಬೇಕು": {
+        "kaarakas": {
+            "ಕುಡಿಯಬೇಕು||ಕುಡಿ": {
+                "karma": [
+                    "ನೀರು||ನೀರು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕುಡಿಯಬೇಕು||ಕುಡಿ"
+        ],
+        "namapada_data": {
+            "ನೀರು||ನೀರು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಕುಡಿಯಬೇಕು||ಕುಡಿ": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಇಬ್ಬರೂ ಬಿಸಿ ಬಿಸಿ ಕಾಫಿ ಮಾಡಿಕೊಂಡು ಕುಡಿದರು": {
+        "kaarakas": {
+            "ಮಾಡಿಕೊಂಡು||ಮಾಡು": {
+                "karma": [
+                    "ಕಾಫಿ||ಕಾಫಿ"
+                ],
+                "kartha": [
+                    "ಇಬ್ಬರೂ||ಇಬ್ಬರು"
+                ]
+            },
+            "ಕುಡಿದರು||ಕುಡಿ": {
+                "karma": [
+                    "ಕಾಫಿ||ಕಾಫಿ"
+                ],
+                "kartha": [
+                    "ಇಬ್ಬರೂ||ಇಬ್ಬರು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಮಾಡಿಕೊಂಡು||ಮಾಡು",
+            "ಕುಡಿದರು||ಕುಡಿ"
+        ],
+        "namapada_data": {
+            "ಕಾಫಿ||ಕಾಫಿ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಇಬ್ಬರೂ||ಇಬ್ಬರು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "MF",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಮಾಡಿಕೊಂಡು||ಮಾಡು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಕುಡಿದರು||ಕುಡಿ": {
+                "gender": "MF",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಇಲ್ಲಿ ಹೊಲಸು ಮಾಡಿದವರನ್ನು ಶಿಕ್ಷೆಗೆ ಗುರಿಪಡಿಸಲಾಗುತ್ತದೆ": {
+        "kaarakas": {
+            "ಮಾಡಿದವರನ್ನು||ಮಾಡು": {
+                "adhikaraNa": [
+                    "ಇಲ್ಲಿ||ಇಲ್ಲಿ"
+                ],
+                "karma": [
+                    "ಹೊಲಸು||ಹೊಲಸು"
+                ]
+            },
+            "ಗುರಿಪಡಿಸಲಾಗುತ್ತದೆ||ಗುರಿಪಡಿಸು": {
+                "adhikaraNa": [
+                    "ಇಲ್ಲಿ||ಇಲ್ಲಿ"
+                ],
+                "destination": [
+                    "ಶಿಕ್ಷೆಗೆ||ಶಿಕ್ಷೆ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಮಾಡಿದವರನ್ನು||ಮಾಡು",
+            "ಗುರಿಪಡಿಸಲಾಗುತ್ತದೆ||ಗುರಿಪಡಿಸು"
+        ],
+        "namapada_data": {
+            "ಇಲ್ಲಿ||ಇಲ್ಲಿ": {
+                "case": "NOM",
+                "type": "LOC-PLA",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹೊಲಸು||ಹೊಲಸು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಶಿಕ್ಷೆಗೆ||ಶಿಕ್ಷೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಮಾಡಿದವರನ್ನು||ಮಾಡು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಗುರಿಪಡಿಸಲಾಗುತ್ತದೆ||ಗುರಿಪಡಿಸು": {
+                "gender": "N",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಕೊನೆಯ ಮರದ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಕೊನೆಯ||ಕೊನೆ": {
+                "case": "GEN",
+                "type": "LOC-PLTM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಮರದ||ಮರ": {
+                "case": "GEN",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಕೆಂಪು ಬಣ್ಣದ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಬಣ್ಣದ||ಬಣ್ಣ": {
+                "case": "GEN",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ನಿಧಾನವಾಗಿ ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಚಿಕ್ಕ ಚಿಕ್ಕ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ಏಕೆ ತಿಂದರು?": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಸೂರ್ಯ ನೆತ್ತಿಯ ಮೇಲೆ ಬಂದಿದ್ದಾನೆ": {
+        "kaarakas": {
+            "ಬಂದಿದ್ದಾನೆ||ಬರು": {
+                "adhikaraNa": [
+                    "ಮೇಲೆ||ಮೇಲೆ"
+                ],
+                "kartha": [
+                    "ಸೂರ್ಯ||ಸೂರ್ಯ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಂದಿದ್ದಾನೆ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನೆತ್ತಿಯ||ನೆತ್ತಿ": {
+                "case": "GEN",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮೇಲೆ||ಮೇಲೆ": {
+                "case": "NOM",
+                "type": "LOC-PLA",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಸೂರ್ಯ||ಸೂರ್ಯ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬಂದಿದ್ದಾನೆ||ಬರು": {
+                "gender": "M",
+                "type": "IN",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ಚಿಕ್ಕಮ್ಮ ಹೇಗೆ ಅಡುಗೆ ಮಾಡಬಲ್ಲಳು?": {
+        "kaarakas": {
+            "ಮಾಡಬಲ್ಲಳು||ಮಾಡು": {
+                "karma": [
+                    "ಅಡುಗೆ||ಅಡುಗೆ"
+                ],
+                "kartha": [
+                    "ಚಿಕ್ಕಮ್ಮ||ಚಿಕ್ಕಮ್ಮ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಮಾಡಬಲ್ಲಳು||ಮಾಡು"
+        ],
+        "namapada_data": {
+            "ಅಡುಗೆ||ಅಡುಗೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಚಿಕ್ಕಮ್ಮ||ಚಿಕ್ಕಮ್ಮ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "F",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಮಾಡಬಲ್ಲಳು||ಮಾಡು": {
+                "gender": "F",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನನಗೆ ವಯಸ್ಸು ಆಗುತ್ತಿದೆ": {
+        "kaarakas": {
+            "ಆಗುತ್ತಿದೆ||ಆಗು": {
+                "karma": [
+                    "ನನಗೆ||ನನಗೆ"
+                ],
+                "kartha": [
+                    "ವಯಸ್ಸು||ವಯಸ್ಸು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಆಗುತ್ತಿದೆ||ಆಗು"
+        ],
+        "namapada_data": {
+            "ವಯಸ್ಸು||ವಯಸ್ಸು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನನಗೆ||ನನಗೆ": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಆಗುತ್ತಿದೆ||ಆಗು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ಹುಡುಗರು ಹಾಲು ಮತ್ತು ಹಣ್ಣನ್ನು ಸೇವಿಸಿದರು": {
+        "kaarakas": {
+            "ಸೇವಿಸಿದರು||ಸೇವಿಸು": {
+                "karma": [
+                    "ಹಣ್ಣನ್ನು||ಹಣ್ಣು",
+                    "ಹಾಲು||ಹಾಲು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಸೇವಿಸಿದರು||ಸೇವಿಸು"
+        ],
+        "namapada_data": {
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಸೇವಿಸಿದರು||ಸೇವಿಸು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ರಾಮನು ಹಣ್ಣನ್ನು ತಿಂದುಬಿಟ್ಟನು": {
+        "kaarakas": {
+            "ತಿಂದುಬಿಟ್ಟನು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದುಬಿಟ್ಟನು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಹಣ್ಣನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ರಾಮನು||ರಾಮ": {
+                "case": "NOM",
+                "type": "PRP-PER",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದುಬಿಟ್ಟನು||ತಿನ್ನು": {
+                "gender": "M",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನೀನು ಬಾ": {
+        "kaarakas": {
+            "ಬಾ||ಬಾ": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಾ||ಬಾ"
+        ],
+        "namapada_data": {
+            "ನೀನು||ನೀನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬಾ||ಬಾ": {
+                "gender": "",
+                "type": "IN",
+                "count": "SL",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಅವನು ಬಂದನು": {
+        "kaarakas": {
+            "ಬಂದನು||ಬರು": {
+                "kartha": [
+                    "ಅವನು||ಅವನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಂದನು||ಬರು"
+        ],
+        "namapada_data": {
+            "ಅವನು||ಅವನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬಂದನು||ಬರು": {
+                "gender": "M",
+                "type": "IN",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನನಗೆ ಓದುವುದು ಕಷ್ಟ": {
+        "kaarakas": {
+            "ಓದುವುದು||ಓದು": {
+                "kartha": [
+                    "ನನಗೆ||ನನಗೆ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಓದುವುದು||ಓದು"
+        ],
+        "namapada_data": {
+            "ನನಗೆ||ನನಗೆ": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಓದುವುದು||ಓದು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನೀನು ಬರುವಷ್ಟರಲ್ಲಿ ನಾನು ಬಂದಿರುತ್ತೇನೆ": {
+        "kaarakas": {
+            "ಬರುವಷ್ಟರಲ್ಲಿ||ಬರು": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            },
+            "ಬಂದಿರುತ್ತೇನೆ||ಬರು": {
+                "kartha": [
+                    "ನಾನು||ನಾನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬರುವಷ್ಟರಲ್ಲಿ||ಬರು",
+            "ಬಂದಿರುತ್ತೇನೆ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನಾನು||ನಾನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನೀನು||ನೀನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರುವಷ್ಟರಲ್ಲಿ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಬಂದಿರುತ್ತೇನೆ||ಬರು": {
+                "gender": "MFN",
+                "type": "IN",
+                "count": "SL",
+                "person": "P1",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಯಾರೂ ಮನೆಯಿಂದ ಹೊರಗೆ ಹೋಗಲೇಬಾರದು": {
+        "kaarakas": {
+            "ಹೋಗಲೇಬಾರದು||ಹೋಗು": {
+                "apaadaana": [
+                    "ಮನೆಯಿಂದ||ಮನೆ"
+                ],
+                "destination": [
+                    "ಹೊರಗೆ||ಹೊರಗೆ"
+                ],
+                "kartha": [
+                    "ಯಾರೂ||ಯಾರು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೋಗಲೇಬಾರದು||ಹೋಗು"
+        ],
+        "namapada_data": {
+            "ಯಾರೂ||ಯಾರು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "MF",
+                "count": "PL",
+                "anim_info": "INTG"
+            },
+            "ಹೊರಗೆ||ಹೊರಗೆ": {
+                "case": "NOM",
+                "type": "LOC-PLA",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮನೆಯಿಂದ||ಮನೆ": {
+                "case": "ABL",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೋಗಲೇಬಾರದು||ಹೋಗು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": "PROH"
+            }
+        }
+    },
+    "ಮುದುಕರು ಮೂಲೆಯಲ್ಲಿ ಕುಳಿತು ಹರಟೆ ಹೊಡೆದರು": {
+        "kaarakas": {
+            "ಕುಳಿತು||ಕುಳಿರು": {
+                "adhikaraNa": [
+                    "ಮೂಲೆಯಲ್ಲಿ||ಮೂಲೆ"
+                ],
+                "kartha": [
+                    "ಮುದುಕರು||ಮುದುಕ"
+                ]
+            },
+            "ಹರಟೆಹೊಡೆದರು||ಹರಟೆಹೊಡೆ": {
+                "adhikaraNa": [
+                    "ಮೂಲೆಯಲ್ಲಿ||ಮೂಲೆ"
+                ],
+                "kartha": [
+                    "ಮುದುಕರು||ಮುದುಕ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕುಳಿತು||ಕುಳಿರು",
+            "ಹರಟೆಹೊಡೆದರು||ಹರಟೆಹೊಡೆ"
+        ],
+        "namapada_data": {
+            "ಮುದುಕರು||ಮುದುಕ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಮೂಲೆಯಲ್ಲಿ||ಮೂಲೆ": {
+                "case": "LOC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಕುಳಿತು||ಕುಳಿರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಹರಟೆಹೊಡೆದರು||ಹರಟೆಹೊಡೆ": {
+                "gender": "MF",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಪೂರ್ವದ ಕಡೆ ನೋಡು": {
+        "kaarakas": {
+            "ನೋಡು||ನೋಡು": {
+                "destination": [
+                    "ಕಡೆ||ಕಡೆ"
+                ],
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ನೋಡು||ನೋಡು"
+        ],
+        "namapada_data": {
+            "ಕಡೆ||ಕಡೆ": {
+                "case": "NOM",
+                "type": "LOC-PLTM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಪೂರ್ವದ||ಪೂರ್ವ": {
+                "case": "GEN",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ನೋಡು||ನೋಡು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "SL",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಅಮ್ಮ ಯಾರಿಗೆ ಮೊದಲು ದೋಸೆ ಕೊಡುತ್ತಾಳೆ?": {
+        "kaarakas": {
+            "ಕೊಡುತ್ತಾಳೆ||ಕೊಡು": {
+                "adhikaraNa": [
+                    "ಮೊದಲು||ಮೊದಲು"
+                ],
+                "sampradana": [
+                    "ಯಾರಿಗೆ||ಯಾರು"
+                ],
+                "karma": [
+                    "ದೋಸೆ||ದೋಸೆ"
+                ],
+                "kartha": [
+                    "ಅಮ್ಮ||ಅಮ್ಮ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕೊಡುತ್ತಾಳೆ||ಕೊಡು"
+        ],
+        "namapada_data": {
+            "ದೋಸೆ||ದೋಸೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮೊದಲು||ಮೊದಲು": {
+                "case": "NOM",
+                "type": "LOC-PLTM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಯಾರಿಗೆ||ಯಾರು": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P3",
+                "gender": "MF",
+                "count": "PL",
+                "anim_info": "INTG"
+            },
+            "ಅಮ್ಮ||ಅಮ್ಮ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "F",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಕೊಡುತ್ತಾಳೆ||ಕೊಡು": {
+                "gender": "F",
+                "type": "BI1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ಹಾವು ಕಚ್ಚಿ ಹುಡುಗ ಸತ್ತನು": {
+        "kaarakas": {
+            "ಕಚ್ಚಿ||ಕಚ್ಚು": {
+                "kartha": [
+                    "ಹಾವು||ಹಾವು"
+                ]
+            },
+            "ಸತ್ತನು||ಸಾಯು": {
+                "karma": [
+                    "ಹುಡುಗ||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕಚ್ಚಿ||ಕಚ್ಚು",
+            "ಸತ್ತನು||ಸಾಯು"
+        ],
+        "namapada_data": {
+            "ಹಾವು||ಹಾವು": {
+                "case": "NOM",
+                "type": "ANIM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗ||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಕಚ್ಚಿ||ಕಚ್ಚು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಸತ್ತನು||ಸಾಯು": {
+                "gender": "M",
+                "type": "IN",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನನಗೆ ಜ್ವರ ಬಂದಿದೆ": {
+        "kaarakas": {
+            "ಬಂದಿದೆ||ಬರು": {
+                "karma": [
+                    "ನನಗೆ||ನನಗೆ"
+                ],
+                "kartha": [
+                    "ಜ್ವರ||ಜ್ವರ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಂದಿದೆ||ಬರು"
+        ],
+        "namapada_data": {
+            "ಜ್ವರ||ಜ್ವರ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನನಗೆ||ನನಗೆ": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬಂದಿದೆ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಪ್ರಜೆಗಳು ರಾಜನಲ್ಲಿ ಬೇಡಿಕೊಂಡರು": {
+        "kaarakas": {
+            "ಬೇಡಿಕೊಂಡರು||ಬೇಡು": {
+                "karma": [
+                    "ರಾಜನಲ್ಲಿ||ರಾಜ"
+                ],
+                "kartha": [
+                    "ಪ್ರಜೆಗಳು||ಪ್ರಜೆ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬೇಡಿಕೊಂಡರು||ಬೇಡು"
+        ],
+        "namapada_data": {
+            "ಪ್ರಜೆಗಳು||ಪ್ರಜೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "MF",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ರಾಜನಲ್ಲಿ||ರಾಜ": {
+                "case": "LOC",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬೇಡಿಕೊಂಡರು||ಬೇಡು": {
+                "gender": "MF",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಮಳೆ ಬರುತ್ತಿದೆ": {
+        "kaarakas": {
+            "ಬರುತ್ತಿದೆ||ಬರು": {
+                "karma": [
+                    "ಮಳೆ||ಮಳೆ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬರುತ್ತಿದೆ||ಬರು"
+        ],
+        "namapada_data": {
+            "ಮಳೆ||ಮಳೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರುತ್ತಿದೆ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ಕೆಲವರು ಮನೆಯಿಂದ ಮನೆಗೆ ಅಲೆಯುತ್ತಾರೆ": {
+        "kaarakas": {
+            "ಅಲೆಯುತ್ತಾರೆ||ಅಲೆ": {
+                "apaadaana": [
+                    "ಮನೆಯಿಂದ||ಮನೆ"
+                ],
+                "destination": [
+                    "ಮನೆಗೆ||ಮನೆ"
+                ],
+                "kartha": [
+                    "ಕೆಲವರು||ಕೆಲವರು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಅಲೆಯುತ್ತಾರೆ||ಅಲೆ"
+        ],
+        "namapada_data": {
+            "ಮನೆಗೆ||ಮನೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಕೆಲವರು||ಕೆಲವರು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P3",
+                "gender": "MF",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಮನೆಯಿಂದ||ಮನೆ": {
+                "case": "ABL",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಅಲೆಯುತ್ತಾರೆ||ಅಲೆ": {
+                "gender": "MF",
+                "type": "IN",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ನೀನು ಬಂದ ನಂತರ ನಾನು ಬರುತ್ತೇನೆ": {
+        "kaarakas": {
+            "ಬರುತ್ತೇನೆ||ಬರು": {
+                "adhikaraNa": [
+                    "ನಂತರ||ನಂತರ"
+                ],
+                "kartha": [
+                    "ನಾನು||ನಾನು"
+                ]
+            },
+            "ಬಂದ||ಬರು": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಂದ||ಬರು",
+            "ಬರುತ್ತೇನೆ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನಾನು||ನಾನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನಂತರ||ನಂತರ": {
+                "case": "NOM",
+                "type": "LOC-TIM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನೀನು||ನೀನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರುತ್ತೇನೆ||ಬರು": {
+                "gender": "MFN",
+                "type": "IN",
+                "count": "SL",
+                "person": "P1",
+                "anim_info": ""
+            },
+            "ಬಂದ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನೀನು ಇನ್ನೂ ಬರುತ್ತಿರುವಾಗಲೇ ನಾನೂ ಬಂದುಬಿಡುತ್ತೇನೆ": {
+        "kaarakas": {
+            "ಬರುತ್ತಿರುವಾಗಲೇ||ಬರು": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            },
+            "ಬಂದುಬಿಡುತ್ತೇನೆ||ಬರು": {
+                "kartha": [
+                    "ನಾನೂ||ನಾನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬರುತ್ತಿರುವಾಗಲೇ||ಬರು",
+            "ಬಂದುಬಿಡುತ್ತೇನೆ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನೀನು||ನೀನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನಾನೂ||ನಾನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರುತ್ತಿರುವಾಗಲೇ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಬಂದುಬಿಡುತ್ತೇನೆ||ಬರು": {
+                "gender": "MFN",
+                "type": "IN",
+                "count": "SL",
+                "person": "P1",
+                "anim_info": ""
+            }
+        }
+    },
+    "ರಾಮನು ಹಣ್ಣುಗಳನ್ನು ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ": {
+        "kaarakas": {
+            "ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ರಾಮನು||ರಾಮ": {
+                "case": "NOM",
+                "type": "PRP-PER",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನೆ||ತಿನ್ನು": {
+                "gender": "M",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ರಾಮನು ಸೀತೆಯ ಜೊತೆ ಕಾಡಿಗೆ ನಡೆದನು": {
+        "kaarakas": {
+            "ನಡೆದನು||ನಡೆ": {
+                "destination": [
+                    "ಕಾಡಿಗೆ||ಕಾಡಿಗೆ"
+                ],
+                "kartha": [
+                    "ರಾಮನು||ರಾಮ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ನಡೆದನು||ನಡೆ"
+        ],
+        "namapada_data": {
+            "ಸೀತೆಯ||ಸೀತೆ": {
+                "case": "GEN",
+                "type": "PRP-PER",
+                "person": "",
+                "gender": "F",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಕಾಡಿಗೆ||ಕಾಡಿಗೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ರಾಮನು||ರಾಮ": {
+                "case": "NOM",
+                "type": "PRP-PER",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ನಡೆದನು||ನಡೆ": {
+                "gender": "M",
+                "type": "IN",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಯಾವ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು?": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಆ ಗಿಡದ ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ತಿಂದರು": {
+        "kaarakas": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದರು||ತಿನ್ನು"
+        ],
+        "namapada_data": {
+            "ಗಿಡದ||ಗಿಡ": {
+                "case": "GEN",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಸೀಬೆ||ಸೀಬೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ತಿಂದರು||ತಿನ್ನು": {
+                "gender": "FM",
+                "type": "TR1",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನನಗೆ ನಿದ್ದೆ ಬರುತ್ತಿದೆ": {
+        "kaarakas": {
+            "ಬರುತ್ತಿದೆ||ಬರು": {
+                "karma": [
+                    "ನನಗೆ||ನನಗೆ"
+                ],
+                "kartha": [
+                    "ನಿದ್ದೆ||ನಿದ್ದೆ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬರುತ್ತಿದೆ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನನಗೆ||ನನಗೆ": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನಿದ್ದೆ||ನಿದ್ದೆ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರುತ್ತಿದೆ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ದಾರಿಯಲ್ಲಿ ಹಳೆಯ ಸ್ನೇಹಿತನನ್ನು ಕಂಡು ಅವನನ್ನು ಮನೆಗೆ ಕರೆತಂದನು": {
+        "kaarakas": {
+            "ಕರೆತಂದನು||ಕರೆತರು": {
+                "adhikaraNa": [
+                    "ದಾರಿಯಲ್ಲಿ||ದಾರಿ"
+                ],
+                "karma": [
+                    "ಅವನನ್ನು||ಅವನು"
+                ],
+                "destination": [
+                    "ಮನೆಗೆ||ಮನೆ"
+                ]
+            },
+            "ಕಂಡು||ಕಾಣು": {
+                "adhikaraNa": [
+                    "ದಾರಿಯಲ್ಲಿ||ದಾರಿ"
+                ],
+                "karma": [
+                    "ಸ್ನೇಹಿತನನ್ನು||ಸ್ನೇಹಿತ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕಂಡು||ಕಾಣು",
+            "ಕರೆತಂದನು||ಕರೆತರು"
+        ],
+        "namapada_data": {
+            "ಅವನನ್ನು||ಅವನು": {
+                "case": "ACC",
+                "type": "PER",
+                "person": "P3",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ದಾರಿಯಲ್ಲಿ||ದಾರಿ": {
+                "case": "LOC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮನೆಗೆ||ಮನೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಸ್ನೇಹಿತನನ್ನು||ಸ್ನೇಹಿತ": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಕರೆತಂದನು||ಕರೆತರು": {
+                "gender": "M",
+                "type": "TR1",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": ""
+            },
+            "ಕಂಡು||ಕಾಣು": {
+                "gender": "",
+                "type": "TR13",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಸೊಳ್ಳೆ ಕಚ್ಚಿದರೆ ಮಲೇರಿಯ ಬರುವುದಂತೆ": {
+        "kaarakas": {
+            "ಬರುವುದಂತೆ||ಬರು2": {
+                "karma": [
+                    "ಮಲೇರಿಯ||ಮಲೇರಿಯ"
+                ]
+            },
+            "ಕಚ್ಚಿದರೆ||ಕಚ್ಚು": {
+                "kartha": [
+                    "ಸೊಳ್ಳೆ||ಸೊಳ್ಳೆ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕಚ್ಚಿದರೆ||ಕಚ್ಚು",
+            "ಬರುವುದಂತೆ||ಬರು2"
+        ],
+        "namapada_data": {
+            "ಮಲೇರಿಯ||ಮಲೇರಿಯ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಸೊಳ್ಳೆ||ಸೊಳ್ಳೆ": {
+                "case": "NOM",
+                "type": "ANIM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಬರುವುದಂತೆ||ಬರು2": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಕಚ್ಚಿದರೆ||ಕಚ್ಚು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಬಾವಿಯಲ್ಲಿ ಇಣಕಿದರು": {
+        "kaarakas": {
+            "ಇಣಕಿದರು||ಇಣಕು": {
+                "adhikaraNa": [
+                    "ಬಾವಿಯಲ್ಲಿ||ಬಾವಿ"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಇಣಕಿದರು||ಇಣಕು"
+        ],
+        "namapada_data": {
+            "ಬಾವಿಯಲ್ಲಿ||ಬಾವಿ": {
+                "case": "LOC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಇಣಕಿದರು||ಇಣಕು": {
+                "gender": "MF",
+                "type": "IN",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗನು ತೋಟಕ್ಕೆ ಹೋಗಿದ್ದಾನೆ": {
+        "kaarakas": {
+            "ಹೋಗಿದ್ದಾನೆ||ಹೋಗು": {
+                "destination": [
+                    "ತೋಟಕ್ಕೆ||ತೋಟ"
+                ],
+                "kartha": [
+                    "ಹುಡುಗನು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೋಗಿದ್ದಾನೆ||ಹೋಗು"
+        ],
+        "namapada_data": {
+            "ತೋಟಕ್ಕೆ||ತೋಟ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗನು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೋಗಿದ್ದಾನೆ||ಹೋಗು": {
+                "gender": "M",
+                "type": "IN",
+                "count": "SL",
+                "person": "P3",
+                "anim_info": "PRES"
+            }
+        }
+    },
+    "ಅವನಿಗೆ ಬರುವಂತೆ ಹೇಳು": {
+        "kaarakas": {
+            "ಹೇಳು||ಹೇಳು": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            },
+            "ಬರುವಂತೆ||ಬರು": {
+                "karma": [
+                    "ಅವನಿಗೆ||ಅವನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬರುವಂತೆ||ಬರು",
+            "ಹೇಳು||ಹೇಳು"
+        ],
+        "namapada_data": {
+            "ಅವನಿಗೆ||ಅವನು": {
+                "case": "DAT",
+                "type": "PER",
+                "person": "P3",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೇಳು||ಹೇಳು": {
+                "gender": "",
+                "type": "TR13",
+                "count": "SL",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಬರುವಂತೆ||ಬರು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನೀನು ಹೇಳಿದರೆ ನಾನು ಬರುತ್ತೇನೆ": {
+        "kaarakas": {
+            "ಹೇಳಿದರೆ||ಹೇಳು": {
+                "kartha": [
+                    "ನೀನು||ನೀನು"
+                ]
+            },
+            "ಬರುತ್ತೇನೆ||ಬರು": {
+                "kartha": [
+                    "ನಾನು||ನಾನು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಹೇಳಿದರೆ||ಹೇಳು",
+            "ಬರುತ್ತೇನೆ||ಬರು"
+        ],
+        "namapada_data": {
+            "ನಾನು||ನಾನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನೀನು||ನೀನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಹೇಳಿದರೆ||ಹೇಳು": {
+                "gender": "",
+                "type": "TR13",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ಬರುತ್ತೇನೆ||ಬರು": {
+                "gender": "MFN",
+                "type": "IN",
+                "count": "SL",
+                "person": "P1",
+                "anim_info": ""
+            }
+        }
+    },
+    "ನಿನ್ನಷ್ಟೆ ಬೇಗ ನಾನು ನಡೆಯಲಾರೆ": {
+        "kaarakas": {
+            "ನಡೆಯಲಾರೆ||ನಡೆ": {
+                "kartha": [
+                    "ನಾನು||ನಾನು",
+                    "ನಿನ್ನಷ್ಟೆ||ನಿನ್ನ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ನಡೆಯಲಾರೆ||ನಡೆ"
+        ],
+        "namapada_data": {
+            "ನಾನು||ನಾನು": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P1",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ನಿನ್ನಷ್ಟೆ||ನಿನ್ನ": {
+                "case": "NOM",
+                "type": "PER",
+                "person": "P2",
+                "gender": "MFN",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ನಡೆಯಲಾರೆ||ನಡೆ": {
+                "gender": "MFN",
+                "type": "IN",
+                "count": "SL",
+                "person": "P12",
+                "anim_info": ""
+            }
+        }
+    },
+    "ದೇವರು ಒಳ್ಳೆಯದನ್ನು ಮಾಡಲಿ": {
+        "kaarakas": {
+            "ಮಾಡಲಿ||ಮಾಡು": {
+                "karma": [
+                    "ಒಳ್ಳೆಯದನ್ನು||ಒಳ್ಳೆಯದು"
+                ],
+                "kartha": [
+                    "ದೇವರು||ದೇವರು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಮಾಡಲಿ||ಮಾಡು"
+        ],
+        "namapada_data": {
+            "ದೇವರು||ದೇವರು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಒಳ್ಳೆಯದನ್ನು||ಒಳ್ಳೆಯದು": {
+                "case": "ACC",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಮಾಡಲಿ||ಮಾಡು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    },
+    "ಹುಡುಗರು ಹಣ್ಣು ತಿಂದು ಮನೆಗೆ ಹೋಗಿ ಮುಖ ತೊಳೆದುಕೊಂಡು ಆಟಕ್ಕೆ ಓಡಿದರು": {
+        "kaarakas": {
+            "ಓಡಿದರು||ಓಡು": {
+                "destination": [
+                    "ಆಟಕ್ಕೆ||ಆಟ"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            },
+            "ಹೋಗಿ||ಹೋಗು": {
+                "destination": [
+                    "ಮನೆಗೆ||ಮನೆ"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            },
+            "ತಿಂದು||ತಿನ್ನು": {
+                "karma": [
+                    "ಹಣ್ಣು||ಹಣ್ಣು"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            },
+            "ತೊಳೆದುಕೊಂಡು||ತೊಳೆ": {
+                "karma": [
+                    "ಮುಖ||ಮುಖ"
+                ],
+                "kartha": [
+                    "ಹುಡುಗರು||ಹುಡುಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತಿಂದು||ತಿನ್ನು",
+            "ಹೋಗಿ||ಹೋಗು",
+            "ತೊಳೆದುಕೊಂಡು||ತೊಳೆ",
+            "ಓಡಿದರು||ಓಡು"
+        ],
+        "namapada_data": {
+            "ಮುಖ||ಮುಖ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಹುಡುಗರು||ಹುಡುಗ": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "M",
+                "count": "PL",
+                "anim_info": ""
+            },
+            "ಹಣ್ಣು||ಹಣ್ಣು": {
+                "case": "NOM",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಮನೆಗೆ||ಮನೆ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            },
+            "ಆಟಕ್ಕೆ||ಆಟ": {
+                "case": "DAT",
+                "type": "COM",
+                "person": "",
+                "gender": "N",
+                "count": "SL",
+                "anim_info": ""
+            }
+        },
+        "kriyaapada_data": {
+            "ಓಡಿದರು||ಓಡು": {
+                "gender": "FM",
+                "type": "IN",
+                "count": "PL",
+                "person": "P3",
+                "anim_info": ""
+            },
+            "ಹೋಗಿ||ಹೋಗು": {
+                "gender": "",
+                "type": "IN",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ತಿಂದು||ತಿನ್ನು": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            },
+            "ತೊಳೆದುಕೊಂಡು||ತೊಳೆ": {
+                "gender": "",
+                "type": "TR1",
+                "count": "",
+                "person": "",
+                "anim_info": ""
+            }
+        }
+    }
+}

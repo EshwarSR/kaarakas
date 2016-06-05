@@ -1,0 +1,648 @@
+{
+    "ಮೊಲ ಸಿಂಹವನ್ನು ಕಂಡು ಹೆದರಿತು": {
+        "namapada_data": {
+            "ಸಿಂಹವನ್ನು||ಸಿಂಹ": {
+                "case": "ACC",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಮೊಲ||ಮೊಲ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ಕಂಡು||ಕಾಣು": {
+                "anim_info": "",
+                "type": "TR13",
+                "gender": "",
+                "person": "",
+                "count": ""
+            },
+            "ಹೆದರಿತು||ಹೆದರು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "N",
+                "person": "P3",
+                "count": "SL"
+            }
+        },
+        "kaarakas": {
+            "ಕಂಡು||ಕಾಣು": {
+                "karma": [
+                    "ಸಿಂಹವನ್ನು||ಸಿಂಹ"
+                ],
+                "kartha": [
+                    "ಮೊಲ||ಮೊಲ"
+                ]
+            },
+            "ಹೆದರಿತು||ಹೆದರು": {
+                "kartha": [
+                    "ಮೊಲ||ಮೊಲ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕಂಡು||ಕಾಣು",
+            "ಹೆದರಿತು||ಹೆದರು"
+        ]
+    },
+    "ಸಿಂಹವು ಇದನ್ನು ಕೇಳಿ ಚಕಿತಗೊಂಡಿತು": {
+        "namapada_data": {
+            "ಇದನ್ನು||ಇದು": {
+                "case": "ACC",
+                "person": "P3",
+                "anim_info": "",
+                "type": "PER",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಸಿಂಹವು||ಸಿಂಹ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ಕೇಳಿ||ಕೇಳು": {
+                "anim_info": "",
+                "type": "TR1",
+                "gender": "",
+                "person": "",
+                "count": "SL"
+            },
+            "ಚಕಿತಗೊಂಡಿತು||ಚಕಿತಗೊಳ್ಳು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "N",
+                "person": "P3",
+                "count": "SL"
+            }
+        },
+        "kaarakas": {
+            "ಕೇಳಿ||ಕೇಳು": {
+                "karma": [
+                    "ಇದನ್ನು||ಇದು"
+                ],
+                "kartha": [
+                    "ಸಿಂಹವು||ಸಿಂಹ"
+                ]
+            },
+            "ಚಕಿತಗೊಂಡಿತು||ಚಕಿತಗೊಳ್ಳು": {
+                "kartha": [
+                    "ಸಿಂಹವು||ಸಿಂಹ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಕೇಳಿ||ಕೇಳು",
+            "ಚಕಿತಗೊಂಡಿತು||ಚಕಿತಗೊಳ್ಳು"
+        ]
+    },
+    "ಮೊಲವು ಇನ್ನೊಂದು ಸಿಂಹವನ್ನು ತೊರಿಸುತ್ತೇನೆ ಎಂದು ಸಿಂಹವನ್ನು ಒಂದು ಬಾವಿಯ_ಕಡೆಗೆ ಕರೆದುಕೊಂಡು_ಹೋಯಿತು": {
+        "namapada_data": {
+            "ಸಿಂಹವನ್ನು||ಸಿಂಹ": {
+                "case": "ACC",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಬಾವಿಯ_ಕಡೆಗೆ||ಬಾವಿಯ_ಕಡೆ": {
+                "case": "DAT",
+                "person": "",
+                "anim_info": "",
+                "type": "LOC-PLTM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಮೊಲವು||ಮೊಲ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಒಂದು||ಒಂದು": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "CARD",
+                "gender": "N",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ಕರೆದುಕೊಂಡು_ಹೋಯಿತು||ಕರೆದುಕೊಂಡು_ಹೋಗು": {
+                "anim_info": "",
+                "type": "TR1",
+                "gender": "N",
+                "person": "P3",
+                "count": "SL"
+            },
+            "ತೊರಿಸುತ್ತೇನೆ||ತೋರಿಸು": {
+                "anim_info": "",
+                "type": "TR1",
+                "gender": "MFN",
+                "person": "P1",
+                "count": "SL"
+            }
+        },
+        "kaarakas": {
+            "ಕರೆದುಕೊಂಡು_ಹೋಯಿತು||ಕರೆದುಕೊಂಡು_ಹೋಗು": {
+                "destination": [
+                    "ಬಾವಿಯ_ಕಡೆಗೆ||ಬಾವಿಯ_ಕಡೆ"
+                ],
+                "karma": [
+                    "ಸಿಂಹವನ್ನು||ಸಿಂಹ"
+                ],
+                "kartha": [
+                    "ಮೊಲವು||ಮೊಲ"
+                ]
+            },
+            "ತೊರಿಸುತ್ತೇನೆ||ತೋರಿಸು": {
+                "kartha": [
+                    "ಮೊಲವು||ಮೊಲ"
+                ],
+                "karma": [
+                    "ಸಿಂಹವನ್ನು||ಸಿಂಹ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತೊರಿಸುತ್ತೇನೆ||ತೋರಿಸು",
+            "ಕರೆದುಕೊಂಡು_ಹೋಯಿತು||ಕರೆದುಕೊಂಡು_ಹೋಗು"
+        ]
+    },
+    "ಆದರು ಮೊಲ ಹೆದರಿಕೆಯನ್ನು ತೋರಿಸಿಕೊಳ್ಳದೆ ಮಾತನಾಡಿತು": {
+        "namapada_data": {
+            "ಮೊಲ||ಮೊಲ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಹೆದರಿಕೆಯನ್ನು||ಹೆದರಿಕೆ": {
+                "case": "ACC",
+                "person": "",
+                "anim_info": "",
+                "type": "COM",
+                "gender": "N",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ತೋರಿಸಿಕೊಳ್ಳದೆ||ತೋರಿಸು": {
+                "anim_info": "NEG",
+                "type": "TR1",
+                "gender": "",
+                "person": "",
+                "count": ""
+            },
+            "ಮಾತನಾಡಿತು||ಮಾತನಾಡು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "N",
+                "person": "P3",
+                "count": "SL"
+            }
+        },
+        "kaarakas": {
+            "ತೋರಿಸಿಕೊಳ್ಳದೆ||ತೋರಿಸು": {
+                "karma": [
+                    "ಹೆದರಿಕೆಯನ್ನು||ಹೆದರಿಕೆ"
+                ],
+                "kartha": [
+                    "ಮೊಲ||ಮೊಲ"
+                ]
+            },
+            "ಮಾತನಾಡಿತು||ಮಾತನಾಡು": {
+                "kartha": [
+                    "ಮೊಲ||ಮೊಲ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ತೋರಿಸಿಕೊಳ್ಳದೆ||ತೋರಿಸು",
+            "ಮಾತನಾಡಿತು||ಮಾತನಾಡು"
+        ]
+    },
+    "ಮೊಲ ಒಂದು ದಿನ ಅತ್ತಿತ್ತ ನೆಗೆಯುತ್ತಾ ಓಡಾಡುತ್ತಿತ್ತು": {
+        "namapada_data": {
+            "ಮೊಲ||ಮೊಲ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಒಂದು||ಒಂದು": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "CARD",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ದಿನ||ದಿನ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "LOC-TIM",
+                "gender": "N",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ನೆಗೆಯುತ್ತಾ||ನೆಗೆ": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "",
+                "person": "",
+                "count": ""
+            },
+            "ಓಡಾಡುತ್ತಿತ್ತು||ಓಡಾಡು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "N",
+                "person": "P3",
+                "count": "SL"
+            }
+        },
+        "kaarakas": {
+            "ನೆಗೆಯುತ್ತಾ||ನೆಗೆ": {
+                "kartha": [
+                    "ಮೊಲ||ಮೊಲ"
+                ],
+                "adhikaraNa": [
+                    "ದಿನ||ದಿನ"
+                ]
+            },
+            "ಓಡಾಡುತ್ತಿತ್ತು||ಓಡಾಡು": {
+                "kartha": [
+                    "ಮೊಲ||ಮೊಲ"
+                ],
+                "adhikaraNa": [
+                    "ದಿನ||ದಿನ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ನೆಗೆಯುತ್ತಾ||ನೆಗೆ",
+            "ಓಡಾಡುತ್ತಿತ್ತು||ಓಡಾಡು"
+        ]
+    },
+    "ಸಿಂಹವು ಬಾವಿಯಲ್ಲಿ ಇಣಕಿ_ನೋಡಿ ತನ್ನ ಪ್ರತಿಬಿಂಬವನ್ನೇ ನೋಡಿ ಇನ್ನೊಂದು ಸಿಂಹ ಎಂದುಕೊಂಡು ಬಾವಿಗೆ ಧುಮುಕಿತು": {
+        "namapada_data": {
+            "ಬಾವಿಗೆ||ಬಾವಿ": {
+                "case": "DAT",
+                "person": "",
+                "anim_info": "",
+                "type": "COM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಸಿಂಹವು||ಸಿಂಹ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಸಿಂಹ||ಸಿಂಹ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ತನ್ನ||ತನ್ನ": {
+                "case": "GEN",
+                "person": "P3",
+                "anim_info": "",
+                "type": "PER",
+                "gender": "MFN",
+                "count": "SL"
+            },
+            "ಪ್ರತಿಬಿಂಬವನ್ನೇ||ಪ್ರತಿಬಿಂಬ": {
+                "case": "ACC",
+                "person": "",
+                "anim_info": "",
+                "type": "COM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಬಾವಿಯಲ್ಲಿ||ಬಾವಿ": {
+                "case": "LOC",
+                "person": "",
+                "anim_info": "",
+                "type": "COM",
+                "gender": "N",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ಎಂದುಕೊಂಡು||ಎನ್ನು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "",
+                "person": "",
+                "count": ""
+            },
+            "ಇಣಕಿ_ನೋಡಿ||ಇಣಕಿ_ನೋಡು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "MFN",
+                "person": "P3",
+                "count": "SL"
+            },
+            "ನೋಡಿ||ನೋಡು": {
+                "anim_info": "",
+                "type": "TR1",
+                "gender": "",
+                "person": "",
+                "count": ""
+            },
+            "ಧುಮುಕಿತು||ಧುಮುಕು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "N",
+                "person": "P3",
+                "count": "SL"
+            }
+        },
+        "kaarakas": {
+            "ಎಂದುಕೊಂಡು||ಎನ್ನು": {
+                "karma": [
+                    "ಸಿಂಹ||ಸಿಂಹ"
+                ],
+                "kartha": [
+                    "ಸಿಂಹವು||ಸಿಂಹ"
+                ]
+            },
+            "ಇಣಕಿ_ನೋಡಿ||ಇಣಕಿ_ನೋಡು": {
+                "kartha": [
+                    "ಸಿಂಹವು||ಸಿಂಹ"
+                ],
+                "adhikaraNa": [
+                    "ಬಾವಿಯಲ್ಲಿ||ಬಾವಿ"
+                ]
+            },
+            "ಧುಮುಕಿತು||ಧುಮುಕು": {
+                "destination": [
+                    "ಬಾವಿಗೆ||ಬಾವಿ"
+                ],
+                "kartha": [
+                    "ಸಿಂಹವು||ಸಿಂಹ"
+                ]
+            },
+            "ನೋಡಿ||ನೋಡು": {
+                "karma": [
+                    "ಪ್ರತಿಬಿಂಬವನ್ನೇ||ಪ್ರತಿಬಿಂಬ"
+                ],
+                "kartha": [
+                    "ಸಿಂಹವು||ಸಿಂಹ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಇಣಕಿ_ನೋಡಿ||ಇಣಕಿ_ನೋಡು",
+            "ನೋಡಿ||ನೋಡು",
+            "ಎಂದುಕೊಂಡು||ಎನ್ನು",
+            "ಧುಮುಕಿತು||ಧುಮುಕು"
+        ]
+    },
+    "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಒಂದು ಮೊಲ ಇತ್ತು": {
+        "namapada_data": {
+            "ಮೊಲ||ಮೊಲ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಕಾಡಿನಲ್ಲಿ||ಕಾಡು": {
+                "case": "LOC",
+                "person": "",
+                "anim_info": "",
+                "type": "COM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಒಂದು||ಒಂದು": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "CARD",
+                "gender": "N",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ಇತ್ತು||ಇತ್ತು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "N",
+                "person": "P3",
+                "count": "SL"
+            }
+        },
+        "kaarakas": {
+            "ಇತ್ತು||ಇತ್ತು": {
+                "kartha": [
+                    "ಮೊಲ||ಮೊಲ"
+                ],
+                "adhikaraNa": [
+                    "ಕಾಡಿನಲ್ಲಿ||ಕಾಡು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಇತ್ತು||ಇತ್ತು"
+        ]
+    },
+    "ಆಗ ಒಂದು ಸಿಂಹ ಎದುರಿಗೆ ಬಂದಿತು": {
+        "namapada_data": {
+            "ಆಗ||ಆಗ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "LOC-TIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಎದುರಿಗೆ||ಎದುರು": {
+                "case": "DAT",
+                "person": "",
+                "anim_info": "",
+                "type": "LOC-PLA",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಸಿಂಹ||ಸಿಂಹ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಒಂದು||ಒಂದು": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "CARD",
+                "gender": "N",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ಬಂದಿತು||ಬರು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "N",
+                "person": "P3",
+                "count": "SL"
+            }
+        },
+        "kaarakas": {
+            "ಬಂದಿತು||ಬರು": {
+                "destination": [
+                    "ಎದುರಿಗೆ||ಎದುರು"
+                ],
+                "kartha": [
+                    "ಸಿಂಹ||ಸಿಂಹ"
+                ],
+                "adhikaraNa": [
+                    "ಆಗ||ಆಗ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಂದಿತು||ಬರು"
+        ]
+    },
+    "ಮೊಲವು ಮನೆಗೆ ಮರಳಿತು": {
+        "namapada_data": {
+            "ಮೊಲವು||ಮೊಲ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಮನೆಗೆ||ಮನೆ": {
+                "case": "DAT",
+                "person": "",
+                "anim_info": "",
+                "type": "COM",
+                "gender": "N",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ಮರಳಿತು||ಮರಳು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "N",
+                "person": "P3",
+                "count": "SL"
+            }
+        },
+        "kaarakas": {
+            "ಮರಳಿತು||ಮರಳು": {
+                "destination": [
+                    "ಮನೆಗೆ||ಮನೆ"
+                ],
+                "kartha": [
+                    "ಮೊಲವು||ಮೊಲ"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಮರಳಿತು||ಮರಳು"
+        ]
+    },
+    "ಈ ಕಾಡಿನಲ್ಲಿ ಇನ್ನೊಂದು ಸಿಂಹ ಬಂದಿದೆ ನಿನಗೆ ಗೊತ್ತೆ": {
+        "namapada_data": {
+            "ಸಿಂಹ||ಸಿಂಹ": {
+                "case": "NOM",
+                "person": "",
+                "anim_info": "",
+                "type": "ANIM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ಕಾಡಿನಲ್ಲಿ||ಕಾಡು": {
+                "case": "LOC",
+                "person": "",
+                "anim_info": "",
+                "type": "COM",
+                "gender": "N",
+                "count": "SL"
+            },
+            "ನಿನಗೆ||ನಿನಗೆ": {
+                "case": "DAT",
+                "person": "P1",
+                "anim_info": "",
+                "type": "PER",
+                "gender": "MFN",
+                "count": "SL"
+            }
+        },
+        "kriyaapada_data": {
+            "ಗೊತ್ತೆ||ಗೊತ್ತೆ": {
+                "anim_info": "",
+                "type": "DEFE",
+                "gender": "",
+                "person": "",
+                "count": ""
+            },
+            "ಬಂದಿದೆ||ಬರು": {
+                "anim_info": "",
+                "type": "IN",
+                "gender": "",
+                "person": "",
+                "count": ""
+            }
+        },
+        "kaarakas": {
+            "ಗೊತ್ತೆ||ಗೊತ್ತೆ": {
+                "karma": [
+                    "ನಿನಗೆ||ನಿನಗೆ"
+                ]
+            },
+            "ಬಂದಿದೆ||ಬರು": {
+                "kartha": [
+                    "ಸಿಂಹ||ಸಿಂಹ"
+                ],
+                "adhikaraNa": [
+                    "ಕಾಡಿನಲ್ಲಿ||ಕಾಡು"
+                ]
+            }
+        },
+        "kriyaapada_order": [
+            "ಬಂದಿದೆ||ಬರು",
+            "ಗೊತ್ತೆ||ಗೊತ್ತೆ"
+        ]
+    }
+}

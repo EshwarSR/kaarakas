@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html>
+<meta charset=utf-8>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<link rel="stylesheet"  type="text/css" href="css/w3.css">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<style>
+html {
+    height: 100%;
+    margin:0px;
+    background: no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+</style>
+</head>
+
+<body id="body">
+
+<div class="box" z-default=10 z-hover=30 style="background-color:rgba(255,255,255,0.8);position:fixed;left:0px;width:25%;">
+  <h3 class="box-content"style="text-align: center;color:#455A64">Semantic Kannada Parser</h3>
+</div>
+
+<div class="box"
+style="position:fixed;left:0px;top:52px;overflow:scroll;padding-bottom:50px;float:left;width:25%;height:100%;color:black ;background-color:rgba(255,255,255,0.8);"z-default=10 z-hover=30>
+<h5 style="color:#007FFF">Sentences<h5><hr>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಹೋಗುವಳು||ಹೋಗು\':{\'kartha\': [\'ಅವಳು||ಅವಳು\'], \'destination\': [\'ಮನೆಗೆ||ಮನೆ\']}}]',event)">1.ಅವಳು ಮನೆಗೆ ಹೋಗುವಳು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ತಿಂದನು||ತಿನ್ನು\':{\'kartha\': [\'ರಾಮನು||ರಾಮ\'], \'karma\': [\'ಹಣ್ಣನ್ನು||ಹಣ್ಣು\']}}]',event)">2.ರಾಮನು ಹಣ್ಣನ್ನು ತಿಂದನು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[\'INTG\']','[{\'ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನಾ||ತಿನ್ನು\':{\'kartha\': [\'ರಾಮನು||ರಾಮ\'], \'karma\': [\'ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು\']}}]',event)">3.ರಾಮನು ಹಣ್ಣುಗಳನ್ನು ತಿಂದುಹಾಕಿಬಿಡುತ್ತಾನಾ?</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಕೊಡಬೇಕು||ಕೊಡು\':{\'sampradana\': [\'ನನಗೆ||ನನಗೆ\'], \'kartha\': [\'ಅವನು||ಅವನು\'], \'karma\': [\'ದುಡ್ಡು||ದುಡ್ಡು\']}}]',event)">4.ಅವನು ನನಗೆ ದುಡ್ಡು ಕೊಡಬೇಕು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[\'NEG\']','[{\'ಕೊಡಲಿಲ್ಲ||ಕೊಡು\':{\'sampradana\': [\'ನನಗೆ||ನನಗೆ\'], \'kartha\': [\'ಅವನು||ಅವನು\'], \'karma\': [\'ದುಡ್ಡು||ದುಡ್ಡು\']}}]',event)">5.ಅವನು ನನಗೆ ದುಡ್ಡು ಕೊಡಲಿಲ್ಲ</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[\'INTG\']','[{\'ಕೊಡುತ್ತಾಳೆ||ಕೊಡು\':{\'sampradana\': [\'ಯಾರಿಗೆ||ಯಾರು\'], \'adhikaraNa\': [\'ಮೊದಲು||ಮೊದಲು\'], \'kartha\': [\'ಅಮ್ಮ||ಅಮ್ಮ\'], \'karma\': [\'ದೋಸೆ||ದೋಸೆ\']}}]',event)">6.ಅಮ್ಮ ಯಾರಿಗೆ ಮೊದಲು ದೋಸೆ ಕೊಡುತ್ತಾಳೆ?</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[\'PROH\']','[{\'ಓದಬಾರದು||ಓದು\':{\'karma\': [\'ಪುಸ್ತಕಗಳನ್ನು||ಪುಸ್ತಕ\']}}]',event)">7.ಕೆಟ್ಟ ಪುಸ್ತಕಗಳನ್ನು ಓದಬಾರದು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಬಿದ್ದಿತು||ಬೀಳು\':{\'karma\': [\'ಹಣ್ಣು||ಹಣ್ಣು\'], \'apaadaana\': [\'ಮರದಿಂದ||ಮರ\'], \'destination\': [\'ಕೆಳಕ್ಕೆ||ಕೆಳಕ್ಕೆ\']}}]',event)">8.ಮರದಿಂದ ಹಣ್ಣು ಕೆಳಕ್ಕೆ ಬಿದ್ದಿತು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಅಲೆಯುತ್ತಾರೆ||ಅಲೆ\':{\'kartha\': [\'ಕೆಲವರು||ಕೆಲವರು\'], \'apaadaana\': [\'ಮನೆಯಿಂದ||ಮನೆ\'], \'destination\': [\'ಮನೆಗೆ||ಮನೆ\']}}]',event)">9.ಕೆಲವರು ಮನೆಯಿಂದ ಮನೆಗೆ ಅಲೆಯುತ್ತಾರೆ</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಇಣಕಿದರು||ಇಣಕು\':{\'adhikaraNa\': [\'ಬಾವಿಯಲ್ಲಿ||ಬಾವಿ\'], \'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\']}}]',event)">10.ಹುಡುಗರು ಬಾವಿಯಲ್ಲಿ ಇಣಕಿದರು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಹೋಗೋಣ||ಹೋಗು\':{\'kartha\': [\'ನಾವು||ನಾವು\'], \'destination\': [\'ಸಂಜೆ||ಸಂಜೆ\']}}]',event)">11.ಸಂಜೆ ಹೋಗೋಣ</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ತಿಂದರು||ತಿನ್ನು\':{\'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\'], \'karma\': [\'ಹಣ್ಣುಗಳನ್ನು||ಹಣ್ಣು\']}}]',event)">12.ಹುಡುಗರು ಸೀಬೆ ಹಣ್ಣುಗಳನ್ನು ಬೇಗ ಬೇಗ ತಿಂದರು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ತಿಂದು||ತಿನ್ನು\':{\'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\'], \'karma\': [\'ಹಣ್ಣು||ಹಣ್ಣು\']}}, {\'ಹೋದರು||ಹೋಗು\':{\'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\'], \'destination\': [\'ಮನೆಗೆ||ಮನೆ\']}}]',event)">13.ಹುಡುಗರು ಹಣ್ಣು ತಿಂದು ಮನೆಗೆ ಹೋದರು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[\'PRES\']','[{\'ತಿನ್ನುತ್ತಾ||ತಿನ್ನು\':{\'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\'], \'karma\': [\'ಹಣ್ಣು||ಹಣ್ಣು\']}}, {\'ಹೋದರು||ಹೋಗು\':{\'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\'], \'destination\': [\'ಮನೆಗೆ||ಮನೆ\']}}]',event)">14.ಹುಡುಗರು ಹಣ್ಣು ತಿನ್ನುತ್ತಾ ಮನೆಗೆ ಹೋದರು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ತಿಂದು||ತಿನ್ನು\':{\'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\'], \'karma\': [\'ಹಣ್ಣು||ಹಣ್ಣು\']}}, {\'ಹೋಗಿ||ಹೋಗು\':{\'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\'], \'destination\': [\'ಮನೆಗೆ||ಮನೆ\']}}, {\'ತೊಳೆದುಕೊಂಡು||ತೊಳೆ\':{\'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\'], \'karma\': [\'ಮುಖ||ಮುಖ\']}}, {\'ಓಡಿದರು||ಓಡು\':{\'kartha\': [\'ಹುಡುಗರು||ಹುಡುಗ\'], \'destination\': [\'ಆಟಕ್ಕೆ||ಆಟ\']}}]',event)">15.ಹುಡುಗರು ಹಣ್ಣು ತಿಂದು ಮನೆಗೆ ಹೋಗಿ ಮುಖ ತೊಳೆದುಕೊಂಡು ಆಟಕ್ಕೆ ಓಡಿದರು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಹೋಗಿದ್ದಾನೆ||ಹೋಗು\':{\'kartha\': [\'ಹುಡುಗನು||ಹುಡುಗ\'], \'destination\': [\'ತೋಟಕ್ಕೆ||ತೋಟ\']}}]',event)">16.ಹುಡುಗನು ತೋಟಕ್ಕೆ ಹೋಗಿದ್ದಾನೆ</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಕಚ್ಚಿದರೆ||ಕಚ್ಚು\':{\'kartha\': [\'ಸೊಳ್ಳೆ||ಸೊಳ್ಳೆ\']}}, {\'ಬರುವುದಂತೆ||ಬರು2\':{\'karma\': [\'ಮಲೇರಿಯ||ಮಲೇರಿಯ\']}}]',event)">17.ಸೊಳ್ಳೆ ಕಚ್ಚಿದರೆ ಮಲೇರಿಯ ಬರುವುದಂತೆ</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಬರುವಷ್ಟರಲ್ಲಿ||ಬರು\':{\'kartha\': [\'ನೀನು||ನೀನು\']}}, {\'ಬಂದಿರುತ್ತೇನೆ||ಬರು\':{\'kartha\': [\'ನಾನು||ನಾನು\']}}]',event)">18.ನೀನು ಬರುವಷ್ಟರಲ್ಲಿ ನಾನು ಬಂದಿರುತ್ತೇನೆ</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಬೇಡಿಕೊಂಡರು||ಬೇಡು\':{\'kartha\': [\'ಪ್ರಜೆಗಳು||ಪ್ರಜೆ\'], \'karma\': [\'ರಾಜನಲ್ಲಿ||ರಾಜ\']}}]',event)">19.ಪ್ರಜೆಗಳು ರಾಜನಲ್ಲಿ ಬೇಡಿಕೊಂಡರು</h2>
+<h2 style='font-size:15px;color: #455A64;text-align:left;padding-left:10px;cursor:pointer ' onclick="init('[]','[{\'ಕಚ್ಚಿ||ಕಚ್ಚು\':{\'kartha\': [\'ಹಾವು||ಹಾವು\']}}, {\'ಸತ್ತನು||ಸಾಯು\':{\'karma\': [\'ಹುಡುಗ||ಹುಡುಗ\']}}]',event)">20.ಹಾವು ಕಚ್ಚಿ ಹುಡುಗ ಸತ್ತನು</h2>
+</div>
+
+<div class="box" style="position:fixed;right:0px;height:auto;float:right;width:15%;color:black ;margin-left:20px;padding-top:20px;margin-top: -14px;background-color:rgba(255,255,255,0.8);"z-default=10 z-hover=30>
+
+<table style="font-size:12px;text-align:left;color:#455A64">
+<tr><td><div class="color_info" style="background-color:#FF5722"></div></td> <td>Kartha(ಕರ್ತೃ)</td></tr>
+        <tr><td><div class="color_info" style="background-color:#009688"></div></td> <td>Karma(ಕರ್ಮ)</td></tr>
+
+        <tr><td><div class="color_info" style="background-color:#FFC107"></div></td> <td>KaraNa(ಕರಣ)</td></tr>
+		        <tr><td><div class="color_info"style="background-color:#03A9F4"></div></td> <td>Sampradana(ಸಂಪ್ರದಾನ)</td></tr>
+        <tr><td><div class="color_info"style="background-color:#4CAF50"></div></td> <td>Apadana(ಅಪಾದಾನ)</td></tr>
+
+         <tr><td><div class="color_info"style="background-color:#E91E63"></div></td> <td>AdhikaraNa(ಅಧಿಕರಣ)</td></tr>
+          <tr><td><div class="color_info"style="background-color:#3F51B5"></div></td> <td>Destination</td></tr>
+</table>
+</div>
+
+
+     <div id="box" style="margin: 0 auto; top:20px " align="center">
+
+  	<img id="img_anim" class="dot" src="gif/kannada.gif" onerror="this.onerror=null;this.src='gif/404.gif'"  alt="">
+
+  </div>
+
+
+
+
+<script type="text/javascript" src="js/jq.js">
+</script>
+	<script type="text/javascript" src="js/main.js">
+	</script>
+</body>
+</html>
+
